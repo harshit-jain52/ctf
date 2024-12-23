@@ -1,10 +1,10 @@
 # CTFLearn Solutions
 
-- [88.md](./Web/88.md)
-- [109.md](./Web/109.md)
-- [114.md](./Web/114.md)
-- [174.md](./Programming/174.md)
-- [970.md](./Programming/970.md)
-- [1050.md](./Programming/1050.md)
+- [88](./Web/88)
+- [109](./Web/109)
+- [114](./Web/114)
+- [174](./Programming/174)
+- [970](./Programming/970)
+- [1050](./Programming/1050)
 
 [Profile](https://ctflearn.com/user/harshit_jain52)
