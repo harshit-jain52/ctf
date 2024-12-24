@@ -3,7 +3,7 @@ name: Update README
 on:
   push:
     paths:
-      - "**/*.md"
+      - "*"
 
 jobs:
   update-readme:
