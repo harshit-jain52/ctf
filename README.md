@@ -3,6 +3,8 @@
 - [88](./Web/88.md)
 - [96](./Forensics/96.md)
 - [103](./Forensics/103.md)
+- [104](./Forensics/104.md)
+- [108](./Forensics/108.md)
 - [109](./Web/109.md)
 - [114](./Web/114.md)
 - [115](./Cryptography/115.md)
