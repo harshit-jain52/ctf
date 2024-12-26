@@ -27,5 +27,6 @@
 - [1026](./Programming/1026.md)
 - [1050](./Programming/1050.md)
 - [1072](./Miscellaneous/1072.md)
+- [1133](./Programming/1133.md)
 
 [Profile](https://ctflearn.com/user/harshit_jain52)
