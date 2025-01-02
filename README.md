@@ -38,3 +38,9 @@
 - [1133](./Programming/1133.md)
 
 [Profile](https://ctflearn.com/user/harshit_jain52)
+
+## Resources & Tools
+
+- [CTFLearn](https://ctflearn.com)
+- [CTF Handbook](https://ctf101.org/)
+- [Online decryption and decoding](https://cryptii.com/)
