@@ -17,6 +17,7 @@
 - [228](./Miscellaneous/228.md)
 - [230](./Cryptography/230.md)
 - [303](./Forensics/303.md)
+- [305](./Cryptography/305.md)
 - [309](./Cryptography/309.md)
 - [348](./Forensics/348.md)
 - [855](./Miscellaneous/855.md)
