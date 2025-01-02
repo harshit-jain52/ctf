@@ -29,6 +29,8 @@ def generate_readme():
 
 - [CTFLearn](https://ctflearn.com)
 - [CTF Handbook](https://ctf101.org/)
+- [Intro to PWN](https://lnwatson.co.uk/posts/pwn-challenges/)
+- [Intro to Forensics](https://infosecwriteups.com/beginners-ctf-guide-finding-hidden-data-in-images-e3be9e34ae0d)
 - [Online decryption and decoding](https://cryptii.com/)
 """
     readme_content += resources_section
