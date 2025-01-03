@@ -41,8 +41,6 @@
 
 - [fd](./Pwnable.kr/Toddler%27s%20Bottle/fd.md)
 
-[Profile](https://ctflearn.com/user/harshit_jain52)
-
 ## Practice & Compete
 
 - [CTFLearn](https://ctflearn.com)
