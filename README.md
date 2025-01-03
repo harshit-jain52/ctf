@@ -32,6 +32,7 @@
 - [971](./CTFLearn/Forensics/971.md)
 - [972](./CTFLearn/Forensics/972.md)
 - [973](./CTFLearn/Forensics/973.md)
+- [1010](./CTFLearn/Binary/1010.md)
 - [1026](./CTFLearn/Programming/1026.md)
 - [1050](./CTFLearn/Programming/1050.md)
 - [1072](./CTFLearn/Miscellaneous/1072.md)
@@ -48,6 +49,7 @@
 - [CTFTime](https://ctftime.org/)
 
 ## Resources & Tools
+
 - [CTF Handbook](https://ctf101.org/)
 - [Intro to PWN](https://lnwatson.co.uk/posts/pwn-challenges/)
 - [Intro to Forensics](https://infosecwriteups.com/beginners-ctf-guide-finding-hidden-data-in-images-e3be9e34ae0d)
