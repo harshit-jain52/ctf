@@ -39,6 +39,7 @@ def generate_readme():
 - [CTFTime](https://ctftime.org/)
 
 ## Resources & Tools
+
 - [CTF Handbook](https://ctf101.org/)
 - [Intro to PWN](https://lnwatson.co.uk/posts/pwn-challenges/)
 - [Intro to Forensics](https://infosecwriteups.com/beginners-ctf-guide-finding-hidden-data-in-images-e3be9e34ae0d)
