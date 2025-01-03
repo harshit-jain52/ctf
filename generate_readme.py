@@ -30,10 +30,6 @@ def generate_readme():
         encoded_path = urllib.parse.quote(relative_path)
         readme_content += f"- [{solution_id}](./{encoded_path})\n"
     
-    # Add profile link
-    profile_url = "https://ctflearn.com/user/harshit_jain52"
-    readme_content += f"\n[Profile]({profile_url})\n"
-
      # Add Resources section
     resources_section = """
 ## Practice & Compete
