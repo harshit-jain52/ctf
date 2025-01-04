@@ -30,6 +30,7 @@
 - [935](./CTFLearn/Forensics/935.md)
 - [955](./CTFLearn/Forensics/955.md)
 - [957](./CTFLearn/Forensics/957.md)
+- [959](./CTFLearn/Forensics/959.md)
 - [970](./CTFLearn/Programming/970.md)
 - [971](./CTFLearn/Forensics/971.md)
 - [972](./CTFLearn/Forensics/972.md)
