@@ -54,7 +54,7 @@
 4. We see `cmpl` instruction, comparing the key with `0xcafebabe` at addr `0x56555654`. Break there and observe the stack memory:
 
     ```gdb
-        (gdb) break *0x56555654
+    (gdb) break *0x56555654
     Breakpoint 2 at 0x56555654
     (gdb) c
     Continuing.
