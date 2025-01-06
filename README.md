@@ -26,6 +26,7 @@
 - [305](./CTFLearn/Cryptography/305.md)
 - [309](./CTFLearn/Cryptography/309.md)
 - [348](./CTFLearn/Forensics/348.md)
+- [379](./CTFLearn/Reversing/379.md)
 - [434](./CTFLearn/Programming/434.md)
 - [449](./CTFLearn/Programming/449.md)
 - [691](./CTFLearn/Binary/691.md)
@@ -46,6 +47,7 @@
 - [971](./CTFLearn/Forensics/971.md)
 - [972](./CTFLearn/Forensics/972.md)
 - [973](./CTFLearn/Forensics/973.md)
+- [990](./CTFLearn/Reversing/990.md)
 ## Pwnable.kr
 
 - [bof](./Pwnable.kr/Toddler%27s%20Bottle/bof.md)
