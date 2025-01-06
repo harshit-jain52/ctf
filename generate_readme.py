@@ -5,32 +5,27 @@ def generate_readme():
     readme_content = "# CTF Solutions\n\n"
 
     # Traverse directories and collect files
-    ctflearn_solutions = []
-    pwnable_solutions = []
+    solutions :dict[str, list[int]] = {}
     for root, _, files in os.walk("."):
         for file in files:
             if file.endswith(".md") and file != "README.md":
                 path = os.path.join(root, file)
                 relative_path = os.path.relpath(path, ".")
                 filename = file.split(".")[0]
-                if root.startswith("./CTFLearn"):
-                    ctflearn_solutions.append((int(filename), relative_path))
-                elif root.startswith("./Pwnable.kr"):
-                    pwnable_solutions.append((filename, relative_path))
-    
-    # Add CTFLearn solutions
-    readme_content += "## CTFLearn\n\n"
-    ctflearn_solutions.sort()
-    for solution_id, relative_path in ctflearn_solutions:
-        readme_content += f"- [{solution_id}](./{relative_path})\n"
-
-    # Add Pwnable.kr solutions
-    readme_content += "\n## Pwnable.kr\n\n"
-    for solution_id, relative_path in pwnable_solutions:
-        encoded_path = urllib.parse.quote(relative_path)
-        readme_content += f"- [{solution_id}](./{encoded_path})\n"
-    
-     # Add Resources section
+                site = root.split("/")[1]
+                if site not in solutions:
+                    solutions[site] = []
+                solutions[site].append((filename, relative_path))
+                
+    # Sort solutions by site and solution_id
+    for site, site_solutions in solutions.items():
+        site_solutions.sort()
+        readme_content += f"## {site}\n\n"
+        for solution_id, relative_path in site_solutions:
+            encoded_path = urllib.parse.quote(relative_path)
+            readme_content += f"- [{solution_id}](./{encoded_path})\n"
+     
+    # Add Resources section
     resources_section = """
 ## Practice & Compete
 
