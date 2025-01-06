@@ -46,6 +46,8 @@
 
 ## Pwnable.kr
 
+- [bof](./Pwnable.kr/Toddler%27s%20Bottle/bof.md)
+- [collision](./Pwnable.kr/Toddler%27s%20Bottle/collision.md)
 - [fd](./Pwnable.kr/Toddler%27s%20Bottle/fd.md)
 
 ## Practice & Compete
