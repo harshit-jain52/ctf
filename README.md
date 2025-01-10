@@ -1,5 +1,9 @@
 # CTF Solutions
 
+## Hacker101-CTF
+
+- [A little something to get you started](./Hacker101-CTF/A%20little%20something%20to%20get%20you%20started.md)
+- [Micro-CMS v1](./Hacker101-CTF/Micro-CMS%20v1.md)
 ## CTFLearn
 
 - [1010](./CTFLearn/Binary/1010.md)
@@ -67,8 +71,10 @@
 ## Practice & Compete
 
 - [CTFLearn](https://ctflearn.com)
-- [Pwnable.kr](https://pwnable.kr/)
-- [CTFTime](https://ctftime.org/)
+- [Pwnable.kr](https://pwnable.kr/) for Pwning
+- [CTF.Hacker101](https://ctf.hacker101.com/) for Web Expoitation
+- [Cryptohack](https://cryptohack.org/challenges/) for Cryptography
+- [CTFTime](https://ctftime.org/) for Upcoming CTFs
 
 ## Resources & Tools
 
