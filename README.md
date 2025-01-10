@@ -5,6 +5,10 @@
 - [1 A little something to get you started](./Hacker101-CTF/1%20A%20little%20something%20to%20get%20you%20started.md)
 - [2 Micro-CMS v1](./Hacker101-CTF/2%20Micro-CMS%20v1.md)
 - [7 Postbook](./Hacker101-CTF/7%20Postbook.md)
+## Cryptohack
+
+- [Encoding](./Cryptohack/General/Encoding.md)
+- [XOR](./Cryptohack/General/XOR.md)
 ## CTFLearn
 
 - [1010](./CTFLearn/Binary/1010.md)
