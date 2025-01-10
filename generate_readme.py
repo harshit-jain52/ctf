@@ -30,8 +30,10 @@ def generate_readme():
 ## Practice & Compete
 
 - [CTFLearn](https://ctflearn.com)
-- [Pwnable.kr](https://pwnable.kr/)
-- [CTFTime](https://ctftime.org/)
+- [Pwnable.kr](https://pwnable.kr/) for Pwning
+- [CTF.Hacker101](https://ctf.hacker101.com/) for Web Expoitation
+- [Cryptohack](https://cryptohack.org/challenges/) for Cryptography
+- [CTFTime](https://ctftime.org/) for Upcoming CTFs
 
 ## Resources & Tools
 
