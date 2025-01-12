@@ -8,6 +8,7 @@
 ## Cryptohack
 
 - [Encoding](./Cryptohack/General/Encoding.md)
+- [How AES Works](./Cryptohack/Symmetric%20Ciphers/How%20AES%20Works.md)
 - [XOR](./Cryptohack/General/XOR.md)
 ## CTFLearn
 
