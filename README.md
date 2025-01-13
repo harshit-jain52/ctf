@@ -1,5 +1,11 @@
 # CTF Solutions
 
+## picoCTF
+
+- [CanYouSee](./picoCTF/CanYouSee.md)
+- [Scan Surprise](./picoCTF/Scan%20Surprise.md)
+- [Secret of the Polyglot](./picoCTF/Secret%20of%20the%20Polyglot.md)
+- [Verify](./picoCTF/Verify.md)
 ## Hacker101-CTF
 
 - [1 A little something to get you started](./Hacker101-CTF/1%20A%20little%20something%20to%20get%20you%20started.md)
@@ -77,6 +83,7 @@
 ## Practice & Compete
 
 - [CTFLearn](https://ctflearn.com)
+- [picoCTF](https://play.picoctf.org/practice)
 - [Pwnable.kr](https://pwnable.kr/) for Pwning
 - [CTF.Hacker101](https://ctf.hacker101.com/) for Web Expoitation
 - [Cryptohack](https://cryptohack.org/challenges/) for Cryptography
