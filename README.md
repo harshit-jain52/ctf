@@ -13,8 +13,10 @@
 - [7 Postbook](./Hacker101-CTF/7%20Postbook.md)
 ## Cryptohack
 
+- [Block Ciphers 1](./Cryptohack/Symmetric%20Ciphers/Block%20Ciphers%201.md)
 - [Encoding](./Cryptohack/General/Encoding.md)
 - [How AES Works](./Cryptohack/Symmetric%20Ciphers/How%20AES%20Works.md)
+- [Symmetric Starter](./Cryptohack/Symmetric%20Ciphers/Symmetric%20Starter.md)
 - [XOR](./Cryptohack/General/XOR.md)
 ## CTFLearn
 
