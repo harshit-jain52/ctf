@@ -2,7 +2,7 @@ import os
 import urllib.parse
 
 def generate_readme():
-    readme_content = "# CTF Solutions\n\n"
+    readme_content = "# CTF Solutions\n"
 
     # Traverse directories and collect files
     solutions :dict[str, list[int]] = {}
@@ -18,8 +18,10 @@ def generate_readme():
                 solutions[site].append((filename, relative_path))
                 
     # Sort solutions by site and solution_id
+    solutions = dict(sorted(solutions.items()))
     for site, site_solutions in solutions.items():
         site_solutions.sort()
+        readme_content += "\n"
         readme_content += f"## {site}\n\n"
         for solution_id, relative_path in site_solutions:
             encoded_path = urllib.parse.quote(relative_path)
