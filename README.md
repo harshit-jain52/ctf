@@ -43,6 +43,7 @@
 - [855](./CTFLearn/Miscellaneous/855.md)
 - [88](./CTFLearn/Web/88.md)
 - [883](./CTFLearn/Forensics/883.md)
+- [887](./CTFLearn/Cryptography/887.md)
 - [89](./CTFLearn/Programming/89.md)
 - [894](./CTFLearn/Forensics/894.md)
 - [933](./CTFLearn/Forensics/933.md)
