@@ -66,8 +66,10 @@
 - [Encoding](./Cryptohack/General/Encoding.md)
 - [How AES Works](./Cryptohack/Symmetric%20Ciphers/How%20AES%20Works.md)
 - [Primes Part 1](./Cryptohack/RSA/Primes%20Part%201.md)
+- [Public Exponent](./Cryptohack/RSA/Public%20Exponent.md)
 - [RSA Starter](./Cryptohack/RSA/RSA%20Starter.md)
 - [Symmetric Starter](./Cryptohack/Symmetric%20Ciphers/Symmetric%20Starter.md)
+- [TLS Part 1](./Cryptohack/Crypto%20on%20the%20Web/TLS%20Part%201.md)
 - [XOR](./Cryptohack/General/XOR.md)
 
 ## Hacker101-CTF
@@ -103,6 +105,7 @@
 - [CTF Handbook](https://ctf101.org/)
 - [Intro to PWN](https://lnwatson.co.uk/posts/pwn-challenges/)
 - [Intro to Forensics](https://infosecwriteups.com/beginners-ctf-guide-finding-hidden-data-in-images-e3be9e34ae0d)
+- [Wireshark: TLS Decryption](https://wiki.wireshark.org/TLS)
 - [Online decryption and decoding](https://cryptii.com/)
 
 [Other Useful Links](https://medium.com/technology-hits/capture-the-flag-ctf-resources-for-beginners-9394ee2ea07a#2e91)
