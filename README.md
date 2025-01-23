@@ -86,10 +86,17 @@
 
 ## picoCTF
 
-- [CanYouSee](./picoCTF/CanYouSee.md)
-- [Scan Surprise](./picoCTF/Scan%20Surprise.md)
-- [Secret of the Polyglot](./picoCTF/Secret%20of%20the%20Polyglot.md)
-- [Verify](./picoCTF/Verify.md)
+- [Bookmarklet](./picoCTF/Web%20Exploitation/Bookmarklet.md)
+- [CanYouSee](./picoCTF/Forensics/CanYouSee.md)
+- [Includes](./picoCTF/Web%20Exploitation/Includes.md)
+- [Inspect HTML](./picoCTF/Web%20Exploitation/Inspect%20HTML.md)
+- [Local Authority](./picoCTF/Web%20Exploitation/Local%20Authority.md)
+- [Scan Surprise](./picoCTF/Forensics/Scan%20Surprise.md)
+- [Scavenger Hunt](./picoCTF/Web%20Exploitation/Scavenger%20Hunt.md)
+- [Secret of the Polyglot](./picoCTF/Forensics/Secret%20of%20the%20Polyglot.md)
+- [Unminify](./picoCTF/Web%20Exploitation/Unminify.md)
+- [Verify](./picoCTF/Forensics/Verify.md)
+- [WebDecode](./picoCTF/Web%20Exploitation/WebDecode.md)
 
 ## Practice & Compete
 
