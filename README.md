@@ -86,17 +86,27 @@
 
 ## picoCTF
 
+- [13](./picoCTF/Cryptography/13.md)
 - [Bookmarklet](./picoCTF/Web%20Exploitation/Bookmarklet.md)
 - [CanYouSee](./picoCTF/Forensics/CanYouSee.md)
 - [Includes](./picoCTF/Web%20Exploitation/Includes.md)
+- [Insp3ct0r](./picoCTF/Web%20Exploitation/Insp3ct0r.md)
 - [Inspect HTML](./picoCTF/Web%20Exploitation/Inspect%20HTML.md)
+- [Interencdec](./picoCTF/Cryptography/Interencdec.md)
 - [Local Authority](./picoCTF/Web%20Exploitation/Local%20Authority.md)
+- [Mod 26](./picoCTF/Cryptography/Mod%2026.md)
+- [ReadMyCert](./picoCTF/Cryptography/ReadMyCert.md)
 - [Scan Surprise](./picoCTF/Forensics/Scan%20Surprise.md)
 - [Scavenger Hunt](./picoCTF/Web%20Exploitation/Scavenger%20Hunt.md)
 - [Secret of the Polyglot](./picoCTF/Forensics/Secret%20of%20the%20Polyglot.md)
+- [The Numbers](./picoCTF/Cryptography/The%20Numbers.md)
 - [Unminify](./picoCTF/Web%20Exploitation/Unminify.md)
 - [Verify](./picoCTF/Forensics/Verify.md)
+- [Vigenere](./picoCTF/Cryptography/Vigenere.md)
 - [WebDecode](./picoCTF/Web%20Exploitation/WebDecode.md)
+- [credstuff](./picoCTF/Cryptography/credstuff.md)
+- [substitution0](./picoCTF/Cryptography/substitution0.md)
+- [where are the robots](./picoCTF/Web%20Exploitation/where%20are%20the%20robots.md)
 
 ## Practice & Compete
 
