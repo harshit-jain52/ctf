@@ -63,6 +63,7 @@
 ## Cryptohack
 
 - [Block Ciphers 1](./Cryptohack/Symmetric%20Ciphers/Block%20Ciphers%201.md)
+- [Data Formats](./Cryptohack/General/Data%20Formats.md)
 - [Encoding](./Cryptohack/General/Encoding.md)
 - [How AES Works](./Cryptohack/Symmetric%20Ciphers/How%20AES%20Works.md)
 - [Primes Part 1](./Cryptohack/RSA/Primes%20Part%201.md)
