@@ -119,6 +119,8 @@ with open("output.txt", "r") as f:
 
 ## 6. Endless Emails
 
+Hastad's Broadcast Attack
+
 ```python
 from Crypto.Util.number import long_to_bytes, inverse
 from math import prod
