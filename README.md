@@ -90,6 +90,7 @@
 - [13](./picoCTF/Cryptography/13.md)
 - [Bookmarklet](./picoCTF/Web%20Exploitation/Bookmarklet.md)
 - [CanYouSee](./picoCTF/Forensics/CanYouSee.md)
+- [Glory of the Garden](./picoCTF/Forensics/Glory%20of%20the%20Garden.md)
 - [Includes](./picoCTF/Web%20Exploitation/Includes.md)
 - [Insp3ct0r](./picoCTF/Web%20Exploitation/Insp3ct0r.md)
 - [Inspect HTML](./picoCTF/Web%20Exploitation/Inspect%20HTML.md)
@@ -106,6 +107,7 @@
 - [Vigenere](./picoCTF/Cryptography/Vigenere.md)
 - [WebDecode](./picoCTF/Web%20Exploitation/WebDecode.md)
 - [credstuff](./picoCTF/Cryptography/credstuff.md)
+- [information](./picoCTF/Forensics/information.md)
 - [substitution0](./picoCTF/Cryptography/substitution0.md)
 - [where are the robots](./picoCTF/Web%20Exploitation/where%20are%20the%20robots.md)
 
@@ -124,6 +126,7 @@
 - [Intro to PWN](https://lnwatson.co.uk/posts/pwn-challenges/)
 - [Intro to Forensics](https://infosecwriteups.com/beginners-ctf-guide-finding-hidden-data-in-images-e3be9e34ae0d)
 - [Wireshark: TLS Decryption](https://wiki.wireshark.org/TLS)
+- [RSA Attacks](https://www.ams.org/notices/199902/boneh.pdf)
 - [Online decryption and decoding](https://cryptii.com/)
 
 [Other Useful Links](https://medium.com/technology-hits/capture-the-flag-ctf-resources-for-beginners-9394ee2ea07a#2e91)
