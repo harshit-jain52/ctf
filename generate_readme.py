@@ -45,6 +45,7 @@ def generate_readme():
 - [Intro to Forensics](https://infosecwriteups.com/beginners-ctf-guide-finding-hidden-data-in-images-e3be9e34ae0d)
 - [Wireshark: TLS Decryption](https://wiki.wireshark.org/TLS)
 - [RSA Attacks](https://www.ams.org/notices/199902/boneh.pdf)
+- [Burp Suite docs](https://portswigger.net/burp/documentation)
 - [Online decryption and decoding](https://cryptii.com/)
 
 [Other Useful Links](https://medium.com/technology-hits/capture-the-flag-ctf-resources-for-beginners-9394ee2ea07a#2e91)
