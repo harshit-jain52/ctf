@@ -127,6 +127,8 @@
 
 ## pwn.college
 
+- [Authentication Bypass 1](./pwn.college/Web%20Security/Authentication%20Bypass%201.md)
+- [Authentication Bypass 2](./pwn.college/Web%20Security/Authentication%20Bypass%202.md)
 - [CMDi 1](./pwn.college/Web%20Security/CMDi%201.md)
 - [CMDi 2](./pwn.college/Web%20Security/CMDi%202.md)
 - [CMDi 3](./pwn.college/Web%20Security/CMDi%203.md)
