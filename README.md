@@ -127,6 +127,12 @@
 
 ## pwn.college
 
+- [CMDi 1](./pwn.college/Web%20Security/CMDi%201.md)
+- [CMDi 2](./pwn.college/Web%20Security/CMDi%202.md)
+- [CMDi 3](./pwn.college/Web%20Security/CMDi%203.md)
+- [CMDi 4](./pwn.college/Web%20Security/CMDi%204.md)
+- [CMDi 5](./pwn.college/Web%20Security/CMDi%205.md)
+- [CMDi 6](./pwn.college/Web%20Security/CMDi%206.md)
 - [Path Traversal 1](./pwn.college/Web%20Security/Path%20Traversal%201.md)
 - [Path Traversal 2](./pwn.college/Web%20Security/Path%20Traversal%202.md)
 
