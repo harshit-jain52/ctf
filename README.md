@@ -137,6 +137,11 @@
 - [CMDi 6](./pwn.college/Web%20Security/CMDi%206.md)
 - [Path Traversal 1](./pwn.college/Web%20Security/Path%20Traversal%201.md)
 - [Path Traversal 2](./pwn.college/Web%20Security/Path%20Traversal%202.md)
+- [SQLi 1](./pwn.college/Web%20Security/SQLi%201.md)
+- [SQLi 2](./pwn.college/Web%20Security/SQLi%202.md)
+- [SQLi 3](./pwn.college/Web%20Security/SQLi%203.md)
+- [SQLi 4](./pwn.college/Web%20Security/SQLi%204.md)
+- [SQLi 5](./pwn.college/Web%20Security/SQLi%205.md)
 
 ## Practice & Compete
 
