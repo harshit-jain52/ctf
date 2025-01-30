@@ -125,6 +125,11 @@
 - [substitution0](./picoCTF/Cryptography/substitution0.md)
 - [where are the robots](./picoCTF/Web%20Exploitation/where%20are%20the%20robots.md)
 
+## pwn.college
+
+- [Path Traversal 1](./pwn.college/Web%20Security/Path%20Traversal%201.md)
+- [Path Traversal 2](./pwn.college/Web%20Security/Path%20Traversal%202.md)
+
 ## Practice & Compete
 
 - [CTFLearn](https://ctflearn.com)
