@@ -5,7 +5,7 @@ cat /challenge/server
 ```
 
 The server is a Flask app that, on receiving requests at `/data/<path>`, serves the file at `/challenge/files/path`
-We know that the flag is at `/challenge/flag`
+We know that the flag is at `/flag`
 This time the server strips any leading and trailing "." or "/", so can't use the previous solution.
 
 ```shell
