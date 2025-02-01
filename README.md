@@ -142,6 +142,13 @@
 - [SQLi 3](./pwn.college/Web%20Security/SQLi%203.md)
 - [SQLi 4](./pwn.college/Web%20Security/SQLi%204.md)
 - [SQLi 5](./pwn.college/Web%20Security/SQLi%205.md)
+- [XSS 1](./pwn.college/Web%20Security/XSS%201.md)
+- [XSS 2](./pwn.college/Web%20Security/XSS%202.md)
+- [XSS 3](./pwn.college/Web%20Security/XSS%203.md)
+- [XSS 4](./pwn.college/Web%20Security/XSS%204.md)
+- [XSS 5](./pwn.college/Web%20Security/XSS%205.md)
+- [XSS 6](./pwn.college/Web%20Security/XSS%206.md)
+- [XSS 7](./pwn.college/Web%20Security/XSS%207.md)
 
 ## Practice & Compete
 
@@ -160,6 +167,7 @@
 - [Wireshark: TLS Decryption](https://wiki.wireshark.org/TLS)
 - [RSA Attacks](https://www.ams.org/notices/199902/boneh.pdf)
 - [Burp Suite docs](https://portswigger.net/burp/documentation)
+- [XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 - [Online decryption and decoding](https://cryptii.com/)
 
 [Other Useful Links](https://medium.com/technology-hits/capture-the-flag-ctf-resources-for-beginners-9394ee2ea07a#2e91)
