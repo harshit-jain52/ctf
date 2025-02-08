@@ -81,12 +81,6 @@
 - [2 Micro-CMS v1](./Hacker101-CTF/2%20Micro-CMS%20v1.md)
 - [7 Postbook](./Hacker101-CTF/7%20Postbook.md)
 
-## Pwnable.kr
-
-- [bof](./Pwnable.kr/Toddler%27s%20Bottle/bof.md)
-- [collision](./Pwnable.kr/Toddler%27s%20Bottle/collision.md)
-- [fd](./Pwnable.kr/Toddler%27s%20Bottle/fd.md)
-
 ## picoCTF
 
 - [13](./picoCTF/Cryptography/13.md)
