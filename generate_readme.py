@@ -47,6 +47,7 @@ def generate_readme():
 - [RSA Attacks](https://www.ams.org/notices/199902/boneh.pdf)
 - [Burp Suite docs](https://portswigger.net/burp/documentation)
 - [XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+- [Prototype Pollution](https://portswigger.net/web-security/prototype-pollution)
 - [Online decryption and decoding](https://cryptii.com/)
 
 [Other Useful Links](https://medium.com/technology-hits/capture-the-flag-ctf-resources-for-beginners-9394ee2ea07a#2e91)

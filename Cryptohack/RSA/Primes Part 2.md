@@ -59,3 +59,27 @@ with open("output.txt", "r") as f:
             if b"crypto" in msg:
                 print(msg)
 ```
+
+## 3. Fast Primes
+
+```python
+from Crypto.PublicKey import RSA
+from Crypto.Cipher import PKCS1_OAEP
+from factordb.factordb import FactorDB
+
+with open("key.pem","r") as f:
+    key = RSA.import_key(f.read())
+    # print(key.n, key.e)
+
+    fdb = FactorDB(key.n)
+    fdb.connect()
+    p, q = fdb.get_factor_list()
+    phi = (p-1)*(q-1)
+    d = pow(key.e, -1, phi)
+    
+    key = RSA.construct((key.n, key.e, d))
+    cipher = PKCS1_OAEP.new(key)
+    ciphertext = bytes.fromhex(open("ciphertext.txt","r").read())
+    ciphertext = cipher.decrypt(ciphertext)
+    print(ciphertext)
+```
