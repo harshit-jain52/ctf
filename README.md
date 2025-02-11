@@ -67,6 +67,7 @@
 - [Data Formats](./Cryptohack/General/Data%20Formats.md)
 - [Encoding](./Cryptohack/General/Encoding.md)
 - [How AES Works](./Cryptohack/Symmetric%20Ciphers/How%20AES%20Works.md)
+- [JSON Web Tokens](./Cryptohack/Crypto%20on%20the%20Web/JSON%20Web%20Tokens.md)
 - [Primes Part 1](./Cryptohack/RSA/Primes%20Part%201.md)
 - [Primes Part 2](./Cryptohack/RSA/Primes%20Part%202.md)
 - [Public Exponent](./Cryptohack/RSA/Public%20Exponent.md)
@@ -160,6 +161,11 @@
 - [XSS 5](./pwn.college/Web%20Security/XSS%205.md)
 - [XSS 6](./pwn.college/Web%20Security/XSS%206.md)
 - [XSS 7](./pwn.college/Web%20Security/XSS%207.md)
+- [level1](./pwn.college/Intercepting%20Communication/level1.md)
+- [level2](./pwn.college/Intercepting%20Communication/level2.md)
+- [level3](./pwn.college/Intercepting%20Communication/level3.md)
+- [level4](./pwn.college/Intercepting%20Communication/level4.md)
+- [level5](./pwn.college/Intercepting%20Communication/level5.md)
 
 ## pwnable.kr
 
@@ -185,6 +191,7 @@
 - [RSA Attacks](https://www.ams.org/notices/199902/boneh.pdf)
 - [Burp Suite docs](https://portswigger.net/burp/documentation)
 - [XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+- [Prototype Pollution](https://portswigger.net/web-security/prototype-pollution)
 - [Online decryption and decoding](https://cryptii.com/)
 
 [Other Useful Links](https://medium.com/technology-hits/capture-the-flag-ctf-resources-for-beginners-9394ee2ea07a#2e91)
