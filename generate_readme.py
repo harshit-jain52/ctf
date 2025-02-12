@@ -33,9 +33,10 @@ def generate_readme():
 
 - [CTFLearn](https://ctflearn.com)
 - [picoCTF](https://play.picoctf.org/practice)
-- [Pwnable.kr](https://pwnable.kr/) for Pwning
+- [pwnable.kr](https://pwnable.kr/) for Pwning
 - [CTF.Hacker101](https://ctf.hacker101.com/) for Web Expoitation
 - [Cryptohack](https://cryptohack.org/challenges/) for Cryptography
+- [xss-game](https://xss-game.appspot.com/) for XSS
 - [CTFTime](https://ctftime.org/) for Upcoming CTFs
 
 ## Resources & Tools
