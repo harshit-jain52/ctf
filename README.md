@@ -87,6 +87,7 @@
 - [13](./picoCTF/Cryptography/13.md)
 - [Bookmarklet](./picoCTF/Web%20Exploitation/Bookmarklet.md)
 - [CanYouSee](./picoCTF/Forensics/CanYouSee.md)
+- [Client-side-again](./picoCTF/Web%20Exploitation/Client-side-again.md)
 - [Cookies](./picoCTF/Web%20Exploitation/Cookies.md)
 - [Dachshund Attacks](./picoCTF/Cryptography/Dachshund%20Attacks.md)
 - [Forbidden Paths](./picoCTF/Web%20Exploitation/Forbidden%20Paths.md)
@@ -120,14 +121,18 @@
 - [Unminify](./picoCTF/Web%20Exploitation/Unminify.md)
 - [Verify](./picoCTF/Forensics/Verify.md)
 - [Vigenere](./picoCTF/Cryptography/Vigenere.md)
+- [Web Gauntlet](./picoCTF/Web%20Exploitation/Web%20Gauntlet.md)
 - [WebDecode](./picoCTF/Web%20Exploitation/WebDecode.md)
+- [Who are you](./picoCTF/Web%20Exploitation/Who%20are%20you.md)
 - [Wireshark doo dooo do doo](./picoCTF/Forensics/Wireshark%20doo%20dooo%20do%20doo....md)
+- [caas](./picoCTF/Web%20Exploitation/caas.md)
 - [credstuff](./picoCTF/Cryptography/credstuff.md)
 - [dont-use-client-side](./picoCTF/Web%20Exploitation/dont-use-client-side.md)
 - [findme](./picoCTF/Web%20Exploitation/findme.md)
 - [information](./picoCTF/Forensics/information.md)
 - [login](./picoCTF/Web%20Exploitation/login.md)
 - [logon](./picoCTF/Web%20Exploitation/logon.md)
+- [picobrowser](./picoCTF/Web%20Exploitation/picobrowser.md)
 - [rotation](./picoCTF/Cryptography/rotation.md)
 - [substitution0](./picoCTF/Cryptography/substitution0.md)
 - [where are the robots](./picoCTF/Web%20Exploitation/where%20are%20the%20robots.md)
@@ -173,13 +178,22 @@
 - [collision](./pwnable.kr/Toddler%27s%20Bottle/collision.md)
 - [fd](./pwnable.kr/Toddler%27s%20Bottle/fd.md)
 
+## xss-game
+
+- [level1](./xss-game/level1.md)
+- [level2](./xss-game/level2.md)
+- [level3](./xss-game/level3.md)
+- [level4](./xss-game/level4.md)
+- [level5](./xss-game/level5.md)
+
 ## Practice & Compete
 
 - [CTFLearn](https://ctflearn.com)
 - [picoCTF](https://play.picoctf.org/practice)
-- [Pwnable.kr](https://pwnable.kr/) for Pwning
+- [pwnable.kr](https://pwnable.kr/) for Pwning
 - [CTF.Hacker101](https://ctf.hacker101.com/) for Web Expoitation
 - [Cryptohack](https://cryptohack.org/challenges/) for Cryptography
+- [xss-game](https://xss-game.appspot.com/) for XSS
 - [CTFTime](https://ctftime.org/) for Upcoming CTFs
 
 ## Resources & Tools
