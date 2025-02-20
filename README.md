@@ -144,9 +144,12 @@
 - [information](./picoCTF/Forensics/information.md)
 - [login](./picoCTF/Web%20Exploitation/login.md)
 - [logon](./picoCTF/Web%20Exploitation/logon.md)
+- [packer](./picoCTF/Reverse%20Engineering/packer.md)
 - [picobrowser](./picoCTF/Web%20Exploitation/picobrowser.md)
+- [reverse](./picoCTF/Reverse%20Engineering/reverse.md)
 - [rotation](./picoCTF/Cryptography/rotation.md)
 - [substitution0](./picoCTF/Cryptography/substitution0.md)
+- [unpackme](./picoCTF/Reverse%20Engineering/unpackme.md)
 - [waves over lambda](./picoCTF/Cryptography/waves%20over%20lambda.md)
 - [where are the robots](./picoCTF/Web%20Exploitation/where%20are%20the%20robots.md)
 
@@ -190,6 +193,7 @@
 - [bof](./pwnable.kr/Toddler%27s%20Bottle/bof.md)
 - [collision](./pwnable.kr/Toddler%27s%20Bottle/collision.md)
 - [fd](./pwnable.kr/Toddler%27s%20Bottle/fd.md)
+- [flag](./pwnable.kr/Toddler%27s%20Bottle/flag.md)
 
 ## xss-game
 
