@@ -23,6 +23,7 @@
 - [158](./CTFLearn/Cryptography/158.md)
 - [168](./CTFLearn/Miscellaneous/168.md)
 - [174](./CTFLearn/Programming/174.md)
+- [188](./CTFLearn/Reversing/188.md)
 - [192](./CTFLearn/Cryptography/192.md)
 - [195](./CTFLearn/Forensics/195.md)
 - [227](./CTFLearn/Cryptography/227.md)
@@ -60,6 +61,7 @@
 - [972](./CTFLearn/Forensics/972.md)
 - [973](./CTFLearn/Forensics/973.md)
 - [990](./CTFLearn/Reversing/990.md)
+- [991](./CTFLearn/Reversing/991.md)
 
 ## Cryptohack
 
@@ -87,6 +89,7 @@
 - [13](./picoCTF/Cryptography/13.md)
 - [Bookmarklet](./picoCTF/Web%20Exploitation/Bookmarklet.md)
 - [CanYouSee](./picoCTF/Forensics/CanYouSee.md)
+- [Classic Crackme 0x100](./picoCTF/Reverse%20Engineering/Classic%20Crackme%200x100.md)
 - [Client-side-again](./picoCTF/Web%20Exploitation/Client-side-again.md)
 - [Cookies](./picoCTF/Web%20Exploitation/Cookies.md)
 - [Dachshund Attacks](./picoCTF/Cryptography/Dachshund%20Attacks.md)
@@ -97,6 +100,7 @@
 - [GDB baby step 4](./picoCTF/Reverse%20Engineering/GDB%20baby%20step%204.md)
 - [GET aHEAD](./picoCTF/Web%20Exploitation/GET%20aHEAD.md)
 - [Glory of the Garden](./picoCTF/Forensics/Glory%20of%20the%20Garden.md)
+- [HideToSee](./picoCTF/Cryptography/HideToSee.md)
 - [Includes](./picoCTF/Web%20Exploitation/Includes.md)
 - [Insp3ct0r](./picoCTF/Web%20Exploitation/Insp3ct0r.md)
 - [Inspect HTML](./picoCTF/Web%20Exploitation/Inspect%20HTML.md)
@@ -131,6 +135,8 @@
 - [WebDecode](./picoCTF/Web%20Exploitation/WebDecode.md)
 - [Who are you](./picoCTF/Web%20Exploitation/Who%20are%20you.md)
 - [Wireshark doo dooo do doo](./picoCTF/Forensics/Wireshark%20doo%20dooo%20do%20doo....md)
+- [basic-mod1](./picoCTF/Cryptography/basic-mod1.md)
+- [basic-mod2](./picoCTF/Cryptography/basic-mod2.md)
 - [caas](./picoCTF/Web%20Exploitation/caas.md)
 - [credstuff](./picoCTF/Cryptography/credstuff.md)
 - [dont-use-client-side](./picoCTF/Web%20Exploitation/dont-use-client-side.md)
@@ -141,6 +147,7 @@
 - [picobrowser](./picoCTF/Web%20Exploitation/picobrowser.md)
 - [rotation](./picoCTF/Cryptography/rotation.md)
 - [substitution0](./picoCTF/Cryptography/substitution0.md)
+- [waves over lambda](./picoCTF/Cryptography/waves%20over%20lambda.md)
 - [where are the robots](./picoCTF/Web%20Exploitation/where%20are%20the%20robots.md)
 
 ## pwn.college
@@ -213,5 +220,6 @@
 - [XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 - [Prototype Pollution](https://portswigger.net/web-security/prototype-pollution)
 - [Online decryption and decoding](https://cryptii.com/)
+- [Online decompiler](https://dogbolt.org/)
 
 [Other Useful Links](https://medium.com/technology-hits/capture-the-flag-ctf-resources-for-beginners-9394ee2ea07a#2e91)
