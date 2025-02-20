@@ -50,6 +50,7 @@ def generate_readme():
 - [XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 - [Prototype Pollution](https://portswigger.net/web-security/prototype-pollution)
 - [Online decryption and decoding](https://cryptii.com/)
+- [Online decompiler](https://dogbolt.org/)
 
 [Other Useful Links](https://medium.com/technology-hits/capture-the-flag-ctf-resources-for-beginners-9394ee2ea07a#2e91)
 """
