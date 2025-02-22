@@ -74,6 +74,7 @@
 - [Primes Part 2](./Cryptohack/RSA/Primes%20Part%202.md)
 - [Public Exponent](./Cryptohack/RSA/Public%20Exponent.md)
 - [RSA Starter](./Cryptohack/RSA/RSA%20Starter.md)
+- [Signatures Part 1](./Cryptohack/RSA/Signatures%20Part%201.md)
 - [Symmetric Starter](./Cryptohack/Symmetric%20Ciphers/Symmetric%20Starter.md)
 - [TLS Part 1](./Cryptohack/Crypto%20on%20the%20Web/TLS%20Part%201.md)
 - [XOR](./Cryptohack/General/XOR.md)
@@ -213,17 +214,23 @@
 - [xss-game](https://xss-game.appspot.com/) for XSS
 - [CTFTime](https://ctftime.org/) for Upcoming CTFs
 
-## Resources & Tools
+## Concepts
 
 - [CTF Handbook](https://ctf101.org/)
 - [Intro to PWN](https://lnwatson.co.uk/posts/pwn-challenges/)
 - [Intro to Forensics](https://infosecwriteups.com/beginners-ctf-guide-finding-hidden-data-in-images-e3be9e34ae0d)
-- [Wireshark: TLS Decryption](https://wiki.wireshark.org/TLS)
 - [RSA Attacks](https://www.ams.org/notices/199902/boneh.pdf)
-- [Burp Suite docs](https://portswigger.net/burp/documentation)
 - [XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 - [Prototype Pollution](https://portswigger.net/web-security/prototype-pollution)
+
+## Tools
+- [Wireshark: TLS Decryption](https://wiki.wireshark.org/TLS)
+- [curl Cheatsheet](https://devhints.io/curl)
+- [nc Cheatsheet](https://quickref.me/nc)
+- [nmap Cheatsheet](https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/)
+- [BurpSuite docs](https://portswigger.net/burp/documentation)
 - [Online decryption and decoding](https://cryptii.com/)
 - [Online decompiler](https://dogbolt.org/)
+
 
 [Other Useful Links](https://medium.com/technology-hits/capture-the-flag-ctf-resources-for-beginners-9394ee2ea07a#2e91)
