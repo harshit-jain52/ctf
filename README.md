@@ -107,6 +107,9 @@
 - [Inspect HTML](./picoCTF/Web%20Exploitation/Inspect%20HTML.md)
 - [Interencdec](./picoCTF/Cryptography/Interencdec.md)
 - [IntroToBurp](./picoCTF/Web%20Exploitation/IntroToBurp.md)
+- [Irish-Name-Repo-1](./picoCTF/Web%20Exploitation/Irish-Name-Repo-1.md)
+- [Irish-Name-Repo-2](./picoCTF/Web%20Exploitation/Irish-Name-Repo-2.md)
+- [Irish-Name-Repo-3](./picoCTF/Web%20Exploitation/Irish-Name-Repo-3.md)
 - [Local Authority](./picoCTF/Web%20Exploitation/Local%20Authority.md)
 - [MatchTheRegex](./picoCTF/Web%20Exploitation/MatchTheRegex.md)
 - [Mind Your Ps and Qs](./picoCTF/Cryptography/Mind%20Your%20Ps%20and%20Qs.md)
@@ -127,6 +130,7 @@
 - [Secret of the Polyglot](./picoCTF/Forensics/Secret%20of%20the%20Polyglot.md)
 - [Secrets](./picoCTF/Web%20Exploitation/Secrets.md)
 - [The Numbers](./picoCTF/Cryptography/The%20Numbers.md)
+- [Trickster](./picoCTF/Web%20Exploitation/Trickster.md)
 - [Unminify](./picoCTF/Web%20Exploitation/Unminify.md)
 - [Verify](./picoCTF/Forensics/Verify.md)
 - [Vigenere](./picoCTF/Cryptography/Vigenere.md)
@@ -149,6 +153,7 @@
 - [picobrowser](./picoCTF/Web%20Exploitation/picobrowser.md)
 - [reverse](./picoCTF/Reverse%20Engineering/reverse.md)
 - [rotation](./picoCTF/Cryptography/rotation.md)
+- [rsa_oracle](./picoCTF/Cryptography/rsa_oracle.md)
 - [substitution0](./picoCTF/Cryptography/substitution0.md)
 - [unpackme](./picoCTF/Reverse%20Engineering/unpackme.md)
 - [waves over lambda](./picoCTF/Cryptography/waves%20over%20lambda.md)
@@ -203,6 +208,7 @@
 - [level3](./xss-game/level3.md)
 - [level4](./xss-game/level4.md)
 - [level5](./xss-game/level5.md)
+- [level6](./xss-game/level6.md)
 
 ## Practice & Compete
 
@@ -221,7 +227,10 @@
 - [Intro to Forensics](https://infosecwriteups.com/beginners-ctf-guide-finding-hidden-data-in-images-e3be9e34ae0d)
 - [RSA Attacks](https://www.ams.org/notices/199902/boneh.pdf)
 - [XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
-- [Prototype Pollution](https://portswigger.net/web-security/prototype-pollution)
+- [Prototype Pollution](https://learn.snyk.io/lesson/prototype-pollution/)
+- [postMessage Vulnerabilities](https://docs.ioin.in/writeup/www.exploit-db.com/_docs_40287_pdf/index.pdf)
+- [JS eval()](https://blog.brownplt.org/2012/10/21/js-eval.html)
+- [File Upload Vulnerabilities](https://portswigger.net/web-security/file-upload)
 
 ## Tools
 - [Wireshark: TLS Decryption](https://wiki.wireshark.org/TLS)
