@@ -46,7 +46,10 @@ def generate_readme():
 - [Intro to Forensics](https://infosecwriteups.com/beginners-ctf-guide-finding-hidden-data-in-images-e3be9e34ae0d)
 - [RSA Attacks](https://www.ams.org/notices/199902/boneh.pdf)
 - [XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
-- [Prototype Pollution](https://portswigger.net/web-security/prototype-pollution)
+- [Prototype Pollution](https://learn.snyk.io/lesson/prototype-pollution/)
+- [postMessage Vulnerabilities](https://docs.ioin.in/writeup/www.exploit-db.com/_docs_40287_pdf/index.pdf)
+- [JS eval()](https://blog.brownplt.org/2012/10/21/js-eval.html)
+- [File Upload Vulnerabilities](https://portswigger.net/web-security/file-upload)
 
 ## Tools
 - [Wireshark: TLS Decryption](https://wiki.wireshark.org/TLS)
