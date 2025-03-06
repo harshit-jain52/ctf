@@ -146,6 +146,9 @@
 - [credstuff](./picoCTF/Cryptography/credstuff.md)
 - [dont-use-client-side](./picoCTF/Web%20Exploitation/dont-use-client-side.md)
 - [findme](./picoCTF/Web%20Exploitation/findme.md)
+- [flag leak](./picoCTF/Binary%20Exploitation/flag%20leak.md)
+- [format string 0](./picoCTF/Binary%20Exploitation/format%20string%200.md)
+- [format string 1](./picoCTF/Binary%20Exploitation/format%20string%201.md)
 - [heap 0](./picoCTF/Binary%20Exploitation/heap%200.md)
 - [heap 1](./picoCTF/Binary%20Exploitation/heap%201.md)
 - [heap 2](./picoCTF/Binary%20Exploitation/heap%202.md)
@@ -159,6 +162,7 @@
 - [rotation](./picoCTF/Cryptography/rotation.md)
 - [rsa_oracle](./picoCTF/Cryptography/rsa_oracle.md)
 - [substitution0](./picoCTF/Cryptography/substitution0.md)
+- [two-sum](./picoCTF/Binary%20Exploitation/two-sum.md)
 - [unpackme](./picoCTF/Reverse%20Engineering/unpackme.md)
 - [waves over lambda](./picoCTF/Cryptography/waves%20over%20lambda.md)
 - [where are the robots](./picoCTF/Web%20Exploitation/where%20are%20the%20robots.md)
@@ -237,6 +241,7 @@
 - [postMessage Vulnerabilities](https://docs.ioin.in/writeup/www.exploit-db.com/_docs_40287_pdf/index.pdf)
 - [JS eval()](https://blog.brownplt.org/2012/10/21/js-eval.html)
 - [File Upload Vulnerabilities](https://portswigger.net/web-security/file-upload)
+- [Binary Exploitation](https://lettieri.iet.unipi.it/hacking/ch/part-2.pdf)
 
 ## Tools
 - [Wireshark: TLS Decryption](https://wiki.wireshark.org/TLS)
