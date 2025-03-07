@@ -33,6 +33,7 @@ def generate_readme():
 
 - [CTFLearn](https://ctflearn.com)
 - [picoCTF](https://play.picoctf.org/practice)
+- [pwn.college](https://pwn.college)
 - [pwnable.kr](https://pwnable.kr/) for Pwning
 - [CTF.Hacker101](https://ctf.hacker101.com/) for Web Expoitation
 - [Cryptohack](https://cryptohack.org/challenges/) for Cryptography
