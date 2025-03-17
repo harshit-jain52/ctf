@@ -52,8 +52,10 @@ def generate_readme():
 - [JS eval()](https://blog.brownplt.org/2012/10/21/js-eval.html)
 - [File Upload Vulnerabilities](https://portswigger.net/web-security/file-upload)
 - [Binary Exploitation](https://lettieri.iet.unipi.it/hacking/ch/part-2.pdf)
+- [Server Side Template Injection](https://medium.com/@bdemir/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68)
 
 ## Tools
+- [CyberChef](https://gchq.github.io/CyberChef/)
 - [Wireshark: TLS Decryption](https://wiki.wireshark.org/TLS)
 - [curl Cheatsheet](https://devhints.io/curl)
 - [nc Cheatsheet](https://quickref.me/nc)
