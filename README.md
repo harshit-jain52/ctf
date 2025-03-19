@@ -3,6 +3,7 @@
 ## CTFLearn
 
 - [1010](./CTFLearn/Binary/1010.md)
+- [1011](./CTFLearn/Binary/1011.md)
 - [1026](./CTFLearn/Programming/1026.md)
 - [103](./CTFLearn/Forensics/103.md)
 - [1030](./CTFLearn/Programming/1030.md)
@@ -17,6 +18,9 @@
 - [115](./CTFLearn/Cryptography/115.md)
 - [120](./CTFLearn/Cryptography/120.md)
 - [121](./CTFLearn/Cryptography/121.md)
+- [1221](./CTFLearn/Binary/1221.md)
+- [1222](./CTFLearn/Binary/1222.md)
+- [1232](./CTFLearn/Binary/1232.md)
 - [138](./CTFLearn/Forensics/138.md)
 - [142](./CTFLearn/Forensics/142.md)
 - [149](./CTFLearn/Web/149.md)
@@ -38,6 +42,8 @@
 - [348](./CTFLearn/Forensics/348.md)
 - [356](./CTFLearn/Forensics/356.md)
 - [379](./CTFLearn/Reversing/379.md)
+- [391](./CTFLearn/Binary/391.md)
+- [401](./CTFLearn/Binary/401.md)
 - [434](./CTFLearn/Programming/434.md)
 - [443](./CTFLearn/Cryptography/443.md)
 - [449](./CTFLearn/Programming/449.md)
@@ -283,6 +289,7 @@
 - [JS eval()](https://blog.brownplt.org/2012/10/21/js-eval.html)
 - [File Upload Vulnerabilities](https://portswigger.net/web-security/file-upload)
 - [Binary Exploitation](https://lettieri.iet.unipi.it/hacking/ch/part-2.pdf)
+- [Smashing the Stack for Fun and Profit](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf)
 - [Server Side Template Injection](https://medium.com/@bdemir/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68)
 
 ## Tools
