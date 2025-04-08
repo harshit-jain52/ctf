@@ -96,6 +96,24 @@
 - [2 Micro-CMS v1](./Hacker101-CTF/2%20Micro-CMS%20v1.md)
 - [7 Postbook](./Hacker101-CTF/7%20Postbook.md)
 
+## Pentathon25
+
+- [Beyond Borders](./Pentathon25/Beyond%20Borders.md)
+- [DES-Key-Quest](./Pentathon25/DES-Key-Quest.md)
+- [Echo Chamber](./Pentathon25/Echo%20Chamber.md)
+- [Hidden Source](./Pentathon25/Hidden%20Source.md)
+- [Last Transmission](./Pentathon25/Last%20Transmission.md)
+- [Master of Minuscule](./Pentathon25/Master%20of%20Minuscule.md)
+- [Mini-RSA](./Pentathon25/Mini-RSA.md)
+- [New_Perhaps](./Pentathon25/New_Perhaps.md)
+- [Overlooked](./Pentathon25/Overlooked.md)
+- [Prefixed](./Pentathon25/Prefixed.md)
+- [Ultra-Safe-Integers](./Pentathon25/Ultra-Safe-Integers.md)
+- [Unblocker](./Pentathon25/Unblocker.md)
+- [ewplusplus](./Pentathon25/ewplusplus.md)
+- [funky](./Pentathon25/funky.md)
+- [quagmire](./Pentathon25/quagmire.md)
+
 ## picoCTF
 
 - [13](./picoCTF/Cryptography/13.md)
@@ -289,6 +307,7 @@
 - [CTF Handbook](https://ctf101.org/)
 - [Intro to PWN](https://lnwatson.co.uk/posts/pwn-challenges/)
 - [Intro to Forensics](https://infosecwriteups.com/beginners-ctf-guide-finding-hidden-data-in-images-e3be9e34ae0d)
+- [PCAP Challenges](https://www.packetsafari.com/blog/2023/01/13/ctf-pcap-challenges/)
 - [RSA Attacks](https://www.ams.org/notices/199902/boneh.pdf)
 - [XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 - [Prototype Pollution](https://learn.snyk.io/lesson/prototype-pollution/)
@@ -296,6 +315,7 @@
 - [JS eval()](https://blog.brownplt.org/2012/10/21/js-eval.html)
 - [File Upload Vulnerabilities](https://portswigger.net/web-security/file-upload)
 - [Smashing the Stack for Fun and Profit](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf)
+- [Format Strings](https://axcheron.github.io/exploit-101-format-strings/)
 - [Server Side Template Injection](https://medium.com/@bdemir/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68)
 
 ## Tools
