@@ -45,6 +45,7 @@ def generate_readme():
 - [CTF Handbook](https://ctf101.org/)
 - [Intro to PWN](https://lnwatson.co.uk/posts/pwn-challenges/)
 - [Intro to Forensics](https://infosecwriteups.com/beginners-ctf-guide-finding-hidden-data-in-images-e3be9e34ae0d)
+- [PCAP Challenges](https://www.packetsafari.com/blog/2023/01/13/ctf-pcap-challenges/)
 - [RSA Attacks](https://www.ams.org/notices/199902/boneh.pdf)
 - [XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 - [Prototype Pollution](https://learn.snyk.io/lesson/prototype-pollution/)
@@ -52,6 +53,7 @@ def generate_readme():
 - [JS eval()](https://blog.brownplt.org/2012/10/21/js-eval.html)
 - [File Upload Vulnerabilities](https://portswigger.net/web-security/file-upload)
 - [Smashing the Stack for Fun and Profit](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf)
+- [Format Strings](https://axcheron.github.io/exploit-101-format-strings/)
 - [Server Side Template Injection](https://medium.com/@bdemir/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68)
 
 ## Tools
