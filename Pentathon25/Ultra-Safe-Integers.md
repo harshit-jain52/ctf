@@ -53,6 +53,6 @@ int main()
 }
 ```
 
-This is clearly an intger overflow problem
+This is clearly an integer overflow problem
 
 ![image](./images/ultrasafeintegers0.png)

@@ -13,7 +13,7 @@ The name is being printed back, this can be a hint to injection
 payload `{{7*'7'}}` gives `7777777` -> SSTI with Jinja template \
 several tries of payload indicated that the input is heavily sanitized
 
-VERY Helpful [blog](https://www.onsecurity.io/blog/server-side-template-injection-with-jinja2/)
+VERY Helpful [blog](https://www.onsecurity.io/blog/server-side-template-injection-with-jinja2/) and a [similar problem in PicoCTF 2025](../picoCTF/Web%20Exploitation/SSTI2.md)
 
 This payload worked:
 

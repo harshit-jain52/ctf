@@ -9,7 +9,7 @@
 Clicking on **Access Restricted Content** takes us to `http://unblck3r.eng.run/flag` endpoint, which is Forbidden \
 Passing the same in unblocker gives `Error: Received status code 403`
 
-Further inspection tells that on blicking on "Unblock", a GET request is made at `/proxy?url=<input_url>` by the iframe
+Further inspection tells that on clicking on "Unblock", a GET request is made at `/proxy?url=<input_url>` by the iframe
 
 ![image](./images/unblocker1.png)
 
