@@ -234,6 +234,7 @@
 - [Connect](./pwn.college/Intro%20to%20Cybersecurity/Intercepting%20Communication/Connect.md)
 - [Control Hijack](./pwn.college/Intro%20to%20Cybersecurity/Binary%20Exploitation/Control%20Hijack.md)
 - [Dynamic Allocator Misuse](./pwn.college/Program%20Security/Dynamic%20Allocator%20Misuse.md)
+- [Format Strings Exploit](./pwn.college/Software%20Exploitation/Format%20Strings%20Exploit.md)
 - [Hijack to (Mapped) Shellcode](./pwn.college/Intro%20to%20Cybersecurity/Binary%20Exploitation/Hijack%20to%20%28Mapped%29%20Shellcode.md)
 - [Hijack to Shellcode](./pwn.college/Intro%20to%20Cybersecurity/Binary%20Exploitation/Hijack%20to%20Shellcode.md)
 - [Listen](./pwn.college/Intro%20to%20Cybersecurity/Intercepting%20Communication/Listen.md)
