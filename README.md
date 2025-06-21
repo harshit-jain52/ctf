@@ -92,6 +92,7 @@
 
 ## GoogleCTF Beginner's Quest 2024
 
+- [GoLogicFlaw](./GoogleCTF%20Beginner%27s%20Quest%202024/GoLogicFlaw.md)
 - [Infiltrate](./GoogleCTF%20Beginner%27s%20Quest%202024/Infiltrate.md)
 - [Rope Climb](./GoogleCTF%20Beginner%27s%20Quest%202024/Rope%20Climb.md)
 - [Simple Echo](./GoogleCTF%20Beginner%27s%20Quest%202024/Simple%20Echo.md)
@@ -106,19 +107,12 @@
 
 - [Beyond Borders](./Pentathon25/Beyond%20Borders.md)
 - [DES-Key-Quest](./Pentathon25/DES-Key-Quest.md)
-- [Echo Chamber](./Pentathon25/Echo%20Chamber.md)
-- [Hidden Source](./Pentathon25/Hidden%20Source.md)
 - [Last Transmission](./Pentathon25/Last%20Transmission.md)
 - [Master of Minuscule](./Pentathon25/Master%20of%20Minuscule.md)
 - [Mini-RSA](./Pentathon25/Mini-RSA.md)
-- [New_Perhaps](./Pentathon25/New_Perhaps.md)
-- [Overlooked](./Pentathon25/Overlooked.md)
 - [Prefixed](./Pentathon25/Prefixed.md)
 - [Ultra-Safe-Integers](./Pentathon25/Ultra-Safe-Integers.md)
 - [Unblocker](./Pentathon25/Unblocker.md)
-- [ewplusplus](./Pentathon25/ewplusplus.md)
-- [funky](./Pentathon25/funky.md)
-- [quagmire](./Pentathon25/quagmire.md)
 
 ## picoCTF
 
@@ -284,6 +278,7 @@
 - [CTF.Hacker101](https://ctf.hacker101.com/) for Web Expoitation
 - [Cryptohack](https://cryptohack.org/challenges/) for Cryptography
 - [xss-game](https://xss-game.appspot.com/) for XSS
+- [GoogleCTF Beginner's Quest](https://capturetheflag.withgoogle.com/beginners-quest)
 - [CTFTime](https://ctftime.org/) for Upcoming CTFs
 
 ## Concepts
