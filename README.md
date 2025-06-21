@@ -92,6 +92,7 @@
 
 ## GoogleCTF Beginner's Quest 2024
 
+- [Doors Everywhere](./GoogleCTF%20Beginner%27s%20Quest%202024/Doors%20Everywhere.md)
 - [GoLogicFlaw](./GoogleCTF%20Beginner%27s%20Quest%202024/GoLogicFlaw.md)
 - [Infiltrate](./GoogleCTF%20Beginner%27s%20Quest%202024/Infiltrate.md)
 - [Rope Climb](./GoogleCTF%20Beginner%27s%20Quest%202024/Rope%20Climb.md)
