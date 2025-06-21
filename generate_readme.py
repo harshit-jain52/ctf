@@ -38,6 +38,7 @@ def generate_readme():
 - [CTF.Hacker101](https://ctf.hacker101.com/) for Web Expoitation
 - [Cryptohack](https://cryptohack.org/challenges/) for Cryptography
 - [xss-game](https://xss-game.appspot.com/) for XSS
+- [GoogleCTF Beginner's Quest](https://capturetheflag.withgoogle.com/beginners-quest)
 - [CTFTime](https://ctftime.org/) for Upcoming CTFs
 
 ## Concepts
