@@ -90,6 +90,12 @@
 - [TLS Part 1](./Cryptohack/Crypto%20on%20the%20Web/TLS%20Part%201.md)
 - [XOR](./Cryptohack/General/XOR.md)
 
+## GoogleCTF Beginner's Quest 2024
+
+- [Infiltrate](./GoogleCTF%20Beginner%27s%20Quest%202024/Infiltrate.md)
+- [Rope Climb](./GoogleCTF%20Beginner%27s%20Quest%202024/Rope%20Climb.md)
+- [Simple Echo](./GoogleCTF%20Beginner%27s%20Quest%202024/Simple%20Echo.md)
+
 ## Hacker101-CTF
 
 - [1 A little something to get you started](./Hacker101-CTF/1%20A%20little%20something%20to%20get%20you%20started.md)
