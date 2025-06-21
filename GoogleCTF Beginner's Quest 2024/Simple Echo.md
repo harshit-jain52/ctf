@@ -1,5 +1,7 @@
 # Simple Echo
 
+> A simple program to echo back user input. What could possibly go wrong?
+
 1. Using GDB, look at `main` function. It simply takes a string as input and `printf`s it. Clearly a format string vulnerability.
 2. Brute force:
 

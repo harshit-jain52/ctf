@@ -1,5 +1,7 @@
 # GoLogicFlaw
 
+> Even though this program is written in Go and, hence, memory safe.. you can still write bugs. Can you find it?
+
 Given file:
 
 ```go

@@ -1,5 +1,7 @@
 # Rope Climb
 
+> I heard that all you need to climb a mountain is a couple of gadgets and some rope. But the real skill is knowing where to place the gadgets along the way.
+
 Observations from GDB `disas`:
 
 1. `main()` calls `vuln()`, which simply reads input from stdin
