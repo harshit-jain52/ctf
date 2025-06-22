@@ -2,15 +2,15 @@
 
 https://secuweb-web.2024-bq.ctfcompetition.com/
 
-![image](./images/1.png)
+![image](./images/de1.png)
 
 https://secuweb-web.2024-bq.ctfcompetition.com/login
 
-![image](./images/2.png)
+![image](./images/de2.png)
 
 https://secuweb-web.2024-bq.ctfcompetition.com/home
 
-![image](./images/3.png)
+![image](./images/de3.png)
 
 ## Part 1
 
@@ -32,7 +32,7 @@ num=6 gives the flag
 
 Clicking on "Send Secret Message" button redirects to https://secuweb-web.2024-bq.ctfcompetition.com/send
 
-![image](./images/4.png)
+![image](./images/de4.png)
 
 Upon inspecting HTML:
 
