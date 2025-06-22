@@ -44,3 +44,5 @@ Create another JWT with **user_id** as 1
 ![image](./images/j4.png)
 
 We're in! Read the note titled "Flag"
+
+> JWT decoding and encoding at: https://jwt.io/
