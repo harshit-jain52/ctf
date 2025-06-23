@@ -1,5 +1,11 @@
 # CTF Solutions
 
+## Arizona CTF 2025 (pwn.college)
+
+- [Cowherders 1](./Arizona%20CTF%202025%20%28pwn.college%29/Web%20Security/Cowherders%201.md)
+- [Hijack Me!](./Arizona%20CTF%202025%20%28pwn.college%29/Linux/Hijack%20Me%21.md)
+- [No Admin For You](./Arizona%20CTF%202025%20%28pwn.college%29/Web%20Security/No%20Admin%20For%20You.md)
+
 ## CTFLearn
 
 - [1010](./CTFLearn/Binary/1010.md)
