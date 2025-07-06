@@ -123,6 +123,11 @@
 - [Ultra-Safe-Integers](./Pentathon25/Ultra-Safe-Integers.md)
 - [Unblocker](./Pentathon25/Unblocker.md)
 
+## TryHackMe
+
+- [OhSINT](./TryHackMe/OhSINT.md)
+- [Sakura](./TryHackMe/Sakura.md)
+
 ## picoCTF
 
 - [13](./picoCTF/Cryptography/13.md)
