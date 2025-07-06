@@ -60,7 +60,20 @@ Observing the transactions list on etherscan, we get the Answer-3: **Ethermine**
 
 We already know Answer-1: **SakuraLoverAiko**
 
-Answer-2: ???
+A previous version of this challenge had an image as hint:
+
+![image](./images/sakura/8.png)
+
+SSID is DK1F-G. Using [geowifi](https://github.com/GONZOsint/geowifi), we get:
+
+```text
+┃ Module         ┃       BSSID       ┃  SSID  ┃  Latitude   ┃  Longitude  ┃
+┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━╇━━━━━━━━╇━━━━━━━━━━━━━╇━━━━━━━━━━━━━┩
+│ wigle          │ 84:AF:EC:34:FC:F8 │ DK1F-G │ 40.60551453 │ 140.4606781 │
+
+```
+
+Hence, Answer-2: **84:AF:EC:34:FC:F8**
 
 ## HOMEBOUND
 
@@ -81,4 +94,4 @@ Jal First Class Lounge is located at Haneda Airport, which gives us the Answer-2
 
 Google Lens search gives us the Answer-3: **Lake Inawashiro**
 
-Answer-4: ???
+Entering the coordinates from geowifi output on https://www.gps-coordinates.net/, gives us the Answer-4: **Hirosaki**
