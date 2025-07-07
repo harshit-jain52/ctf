@@ -125,7 +125,9 @@
 
 ## TryHackMe
 
+- [Mr Robot](./TryHackMe/Mr%20Robot.md)
 - [OhSINT](./TryHackMe/OhSINT.md)
+- [Pickle Rick](./TryHackMe/Pickle%20Rick.md)
 - [Sakura](./TryHackMe/Sakura.md)
 
 ## picoCTF
