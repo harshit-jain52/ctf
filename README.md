@@ -98,10 +98,13 @@
 
 ## GoogleCTF Beginner's Quest 2024
 
+- [DialUp](./GoogleCTF%20Beginner%27s%20Quest%202024/DialUp.md)
 - [Doors Everywhere](./GoogleCTF%20Beginner%27s%20Quest%202024/Doors%20Everywhere.md)
 - [GoLogicFlaw](./GoogleCTF%20Beginner%27s%20Quest%202024/GoLogicFlaw.md)
 - [Infiltrate](./GoogleCTF%20Beginner%27s%20Quest%202024/Infiltrate.md)
 - [Jotes](./GoogleCTF%20Beginner%27s%20Quest%202024/Jotes.md)
+- [OldMeetsNew](./GoogleCTF%20Beginner%27s%20Quest%202024/OldMeetsNew.md)
+- [PhantomSounds](./GoogleCTF%20Beginner%27s%20Quest%202024/PhantomSounds.md)
 - [Redacted RSA 1](./GoogleCTF%20Beginner%27s%20Quest%202024/Redacted%20RSA%201.md)
 - [Rope Climb](./GoogleCTF%20Beginner%27s%20Quest%202024/Rope%20Climb.md)
 - [Simple Echo](./GoogleCTF%20Beginner%27s%20Quest%202024/Simple%20Echo.md)
