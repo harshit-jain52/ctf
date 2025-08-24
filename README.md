@@ -6,6 +6,29 @@
 - [Hijack Me!](./Arizona%20CTF%202025%20%28pwn.college%29/Linux/Hijack%20Me%21.md)
 - [No Admin For You](./Arizona%20CTF%202025%20%28pwn.college%29/Web%20Security/No%20Admin%20For%20You.md)
 
+## BrunnerCTF 2025
+
+- [BakeDown](./BrunnerCTF%202025/Shake%20%26%20Bake%20%28Beginner%29/BakeDown.md)
+- [Baker Brian](./BrunnerCTF%202025/Shake%20%26%20Bake%20%28Beginner%29/Baker%20Brian.md)
+- [Baking Bad](./BrunnerCTF%202025/Web/Baking%20Bad.md)
+- [Based Brunner](./BrunnerCTF%202025/Shake%20%26%20Bake%20%28Beginner%29/Based%20Brunner.md)
+- [Brunner's Bakery](./BrunnerCTF%202025/Web/Brunner%27s%20Bakery.md)
+- [Caffeine](./BrunnerCTF%202025/Shake%20%26%20Bake%20%28Beginner%29/Caffeine.md)
+- [Cookie Jar](./BrunnerCTF%202025/Shake%20%26%20Bake%20%28Beginner%29/Cookie%20Jar.md)
+- [Dat Overflow Dough](./BrunnerCTF%202025/Shake%20%26%20Bake%20%28Beginner%29/Dat%20Overflow%20Dough.md)
+- [DoughBot](./BrunnerCTF%202025/Shake%20%26%20Bake%20%28Beginner%29/DoughBot.md)
+- [Grandma's Predictable Cookies](./BrunnerCTF%202025/Reverse%20Engineering/Grandma%27s%20Predictable%20Cookies.md)
+- [Half-Baked](./BrunnerCTF%202025/Crypto/Half-Baked.md)
+- [Online Cake Flavour Shop](./BrunnerCTF%202025/Shake%20%26%20Bake%20%28Beginner%29/Online%20Cake%20Flavour%20Shop.md)
+- [Othello Villains](./BrunnerCTF%202025/Pwn/Othello%20Villains.md)
+- [Shaken, Not Stirred](./BrunnerCTF%202025/Shake%20%26%20Bake%20%28Beginner%29/Shaken%2C%20Not%20Stirred.md)
+- [The Great Mainframe Bake-Off](./BrunnerCTF%202025/Shake%20%26%20Bake%20%28Beginner%29/The%20Great%20Mainframe%20Bake-Off.md)
+- [The Secret Brunsviger](./BrunnerCTF%202025/Shake%20%26%20Bake%20%28Beginner%29/The%20Secret%20Brunsviger.md)
+- [There Is a Lovely Land](./BrunnerCTF%202025/OSINT/There%20Is%20a%20Lovely%20Land.md)
+- [Trippi Troppa Chaos](./BrunnerCTF%202025/Reverse%20Engineering/Trippi%20Troppa%20Chaos.md)
+- [Where Robots Cannot Search](./BrunnerCTF%202025/Shake%20%26%20Bake%20%28Beginner%29/Where%20Robots%20Cannot%20Search.md)
+- [Whisk](./BrunnerCTF%202025/Shake%20%26%20Bake%20%28Beginner%29/Whisk.md)
+
 ## CTFLearn
 
 - [1010](./CTFLearn/Binary/1010.md)
