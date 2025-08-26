@@ -293,6 +293,7 @@
 - [PIEs](./pwn.college/Intro%20to%20Cybersecurity/Binary%20Exploitation/PIEs.md)
 - [Path Traversal](./pwn.college/Intro%20to%20Cybersecurity/Web%20Security/Path%20Traversal.md)
 - [Precision](./pwn.college/Intro%20to%20Cybersecurity/Binary%20Exploitation/Precision.md)
+- [Pwntools Tutorial](./pwn.college/Pwntools/Pwntools%20Tutorial.md)
 - [Return Oriented Programming](./pwn.college/Program%20Security/Return%20Oriented%20Programming.md)
 - [SQLi](./pwn.college/Intro%20to%20Cybersecurity/Web%20Security/SQLi.md)
 - [Scan](./pwn.college/Intro%20to%20Cybersecurity/Intercepting%20Communication/Scan.md)
