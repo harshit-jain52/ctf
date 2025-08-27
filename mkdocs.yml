@@ -1,0 +1,21 @@
+site_name: CTF Writeups
+repo_url: https://github.com/harshit-jain52/ctf
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - awesome-pages
