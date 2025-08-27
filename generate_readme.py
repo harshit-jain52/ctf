@@ -3,7 +3,7 @@ import urllib.parse
 
 def generate_readme():
     readme_content = "# CTF Writeups\n"
-    index_content = "# CTF Writeups\n"
+    index_content = "# Index\n"
 
     # Traverse directories and collect files
     solutions :dict[str, list[int]] = {}

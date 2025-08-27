@@ -4,11 +4,21 @@ site_url: https://harshit-jain52.github.io/ctf/
 theme:
   name: material
   features:
-    - navigation.expand
     - navigation.sections
     - search.suggest
     - search.highlight
     - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 
 markdown_extensions:
   - admonition
