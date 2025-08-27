@@ -12,14 +12,12 @@ def generate_readme():
             if file.endswith(".md") and file != "index.md":
                 path = os.path.join(root, file)
                 relative_path = os.path.relpath(path, "docs")
-                print(relative_path)
                 filename = file.split(".")[0]
                 site = root.split("/")[1]
                 if site not in solutions:
                     solutions[site] = []
                 solutions[site].append((filename, relative_path))
 
-    print(solutions)     
     # Sort solutions by site and solution_id
     solutions = dict(sorted(solutions.items()))
     for site, site_solutions in solutions.items():
