@@ -1,4 +1,4 @@
-# CTF Writeups
+# Index
 
 ## Practice & Compete
 
