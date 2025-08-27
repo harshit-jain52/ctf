@@ -1,6 +1,5 @@
 site_name: CTF Writeups
 repo_url: https://github.com/harshit-jain52/ctf
-docs_dir: .
 theme:
   name: material
   features:
