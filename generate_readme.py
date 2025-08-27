@@ -2,21 +2,24 @@ import os
 import urllib.parse
 
 def generate_readme():
-    readme_content = "# CTF Solutions\n"
+    readme_content = "# CTF Writeups\n"
+    index_content = "# CTF Writeups\n"
 
     # Traverse directories and collect files
     solutions :dict[str, list[int]] = {}
-    for root, _, files in os.walk("."):
+    for root, _, files in os.walk("docs"):
         for file in files:
-            if file.endswith(".md") and file != "README.md":
+            if file.endswith(".md") and file != "index.md":
                 path = os.path.join(root, file)
-                relative_path = os.path.relpath(path, ".")
+                relative_path = os.path.relpath(path, "docs")
+                print(relative_path)
                 filename = file.split(".")[0]
                 site = root.split("/")[1]
                 if site not in solutions:
                     solutions[site] = []
                 solutions[site].append((filename, relative_path))
-                
+
+    print(solutions)     
     # Sort solutions by site and solution_id
     solutions = dict(sorted(solutions.items()))
     for site, site_solutions in solutions.items():
@@ -58,6 +61,7 @@ def generate_readme():
 - [Server Side Template Injection](https://medium.com/@bdemir/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68)
 
 ## Tools
+
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [Wireshark: TLS Decryption](https://wiki.wireshark.org/TLS)
 - [curl Cheatsheet](https://devhints.io/curl)
@@ -69,12 +73,16 @@ def generate_readme():
 
 
 [Other Useful Links](https://medium.com/technology-hits/capture-the-flag-ctf-resources-for-beginners-9394ee2ea07a#2e91)
+[CTF Repos](https://github.com/stars/harshit-jain52/lists/ctf-black-flag)
 """
     readme_content += resources_section
-    
-    # Write to README.md
+    index_content += resources_section
+
     with open("README.md", "w") as readme_file:
         readme_file.write(readme_content)
+    
+    with open("docs/index.md", "w") as index_file:
+        index_file.write(index_content)
 
 if __name__ == "__main__":
     generate_readme()
