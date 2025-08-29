@@ -25,7 +25,7 @@ def generate_readme():
         readme_content += "\n"
         readme_content += f"## {site}\n\n"
         for solution_id, relative_path in site_solutions:
-            encoded_path = urllib.parse.quote(relative_path)
+            encoded_path = urllib.parse.quote("docs/" + relative_path)
             readme_content += f"- [{solution_id}](./{encoded_path})\n"
      
     # Add Resources section
