@@ -138,6 +138,10 @@
 - [2 Micro-CMS v1](./Hacker101-CTF/2%20Micro-CMS%20v1.md)
 - [7 Postbook](./Hacker101-CTF/7%20Postbook.md)
 
+## OverTheWire
+
+- [Bandit](./OverTheWire/Bandit.md)
+
 ## Pentathon25
 
 - [Beyond Borders](./Pentathon25/Beyond%20Borders.md)
@@ -332,6 +336,7 @@
 - [Cryptohack](https://cryptohack.org/challenges/) for Cryptography
 - [xss-game](https://xss-game.appspot.com/) for XSS
 - [GoogleCTF Beginner's Quest](https://capturetheflag.withgoogle.com/beginners-quest)
+- [OverTheWire Wargames](https://overthewire.org/wargames/)
 - [CTFTime](https://ctftime.org/) for Upcoming CTFs
 
 ## Concepts
