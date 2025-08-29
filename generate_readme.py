@@ -40,6 +40,7 @@ def generate_readme():
 - [Cryptohack](https://cryptohack.org/challenges/) for Cryptography
 - [xss-game](https://xss-game.appspot.com/) for XSS
 - [GoogleCTF Beginner's Quest](https://capturetheflag.withgoogle.com/beginners-quest)
+- [OverTheWire Wargames](https://overthewire.org/wargames/)
 - [CTFTime](https://ctftime.org/) for Upcoming CTFs
 
 ## Concepts

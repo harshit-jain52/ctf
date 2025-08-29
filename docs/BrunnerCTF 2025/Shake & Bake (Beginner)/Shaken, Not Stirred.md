@@ -6,7 +6,15 @@ After all that cake, I think it's time to sit back, relax, and have a drink 🍸
 ...Aw man, I just saw the bartender add something strange, I just wanted a good old classic. Wonder if I can demix it and get it out 🤔
 ```
 
-`encrypt.py`:
+points: `50`
+
+solves: `316`
+
+author: `Nissen`
+
+---
+
+Given `encrypt.py`:
 
 ```python
 import random
@@ -64,7 +72,7 @@ else:
     printer("🫗 Oops! Shook your drink too hard and spilled it 🫗")
 ```
 
-`output.txt`:
+Given `output.txt`:
 
 ```text
 🍸 Welcome to the Martini MiXOR 3000! 🍸
@@ -81,7 +89,7 @@ Drink's ready! Shaken, not stirred:
 🍸 wg`{{pgna}&J{!x&2fJWg`{{&g;;;_!x&fJWg`{{&gh 🍸
 ```
 
-`decrypt.py`
+Create `decrypt.py`
 
 ```python
 import random

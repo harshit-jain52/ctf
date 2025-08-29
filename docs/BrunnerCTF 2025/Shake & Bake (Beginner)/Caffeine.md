@@ -10,6 +10,14 @@ This new coffee shop recently opened and you've been waiting too long for your d
 The user flag is in a file called user.txt.
 ```
 
+points: `50`
+
+solves: `310`
+
+author: `Quack`
+
+---
+
 ![image](../images/2.png)
 
 On checking, the text box at right side can be used for RCE
@@ -34,6 +42,14 @@ Now that you have access to their system, is there any way you can escalate your
 
 The root flag is located in /root/root.txt.
 ```
+
+points: `50`
+
+solves: `203`
+
+author: `Quack`
+
+---
 
 ```shell
 Order Status for #; cat /root/root.txt

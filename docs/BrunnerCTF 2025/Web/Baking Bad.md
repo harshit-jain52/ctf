@@ -8,6 +8,14 @@ Our bakers have been trying to come up with a new P2P-recipe trying all sorts of
 Luckily, the developers at Brunnerne have come up with a bash -c 'recipe' that can simulate the baking process. This way we can test ingredients in a simulator to find ingredients that result in a higher purity - without wasting any ressources.
 ```
 
+points: `100`
+
+solves: `339`
+
+author: `0xjeppe`
+
+---
+
 From the description, it is clear that this is a Command Injection problem
 
 ![image](../images/3.png)

@@ -6,7 +6,43 @@ Not sure what that means, but he specifically asked for 2, I guess to save money
 Sounded easy enough, but now the whole system feels a bit half-baked 😕
 ```
 
-N, e, c given. N is EVEN, actually it is a power of 2. So phi is just N/2
+points: `100`
+
+solves: `433`
+
+author: `Nissen`
+
+---
+
+N, e, c given. N is EVEN, actually it is **a power of 2**. So phi is just N/2
+
+## Proof that $\varphi(N) = \tfrac{N}{2}$ when $N$ is a power of 2
+
+Let $N = 2^k$ for some integer $k \geq 1$.
+
+Euler’s totient function is given by  
+
+$$
+\varphi(N) = N \prod_{p \mid N}\left(1 - \frac{1}{p}\right),
+$$
+
+where the product runs over all distinct prime divisors of $N$.
+
+Since the only prime divisor of $2^k$ is $2$, we get  
+
+$$
+\varphi(2^k) = 2^k \left(1 - \frac{1}{2}\right).
+$$
+
+$$
+\varphi(2^k) = 2^k \cdot \frac{1}{2} = 2^{k-1}.
+$$
+
+$$
+\varphi(N) = \frac{N}{2}.
+$$
+
+## Decryption script
 
 ```python
 from Crypto.Util.number import long_to_bytes, inverse

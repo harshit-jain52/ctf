@@ -4,6 +4,14 @@
 Recent Graphs show that we need some more Quality of Life recipes! Can you go check if the bakery is hiding any?!
 ```
 
+points: `100`
+
+solves: `315`
+
+author: `Quack`
+
+---
+
 ![image](../images/4.png)
 
 So, this could be a GraphQL Injection problem

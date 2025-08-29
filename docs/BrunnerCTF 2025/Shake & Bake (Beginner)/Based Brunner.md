@@ -6,6 +6,14 @@
 Brunsviger is just so based, I think I could eat it in any form - from binary to decimal!
 ```
 
+points: `50`
+
+solves: `331`
+
+author: `Nissen`
+
+---
+
 `based.txt` and `encode.py` given:
 
 ```python

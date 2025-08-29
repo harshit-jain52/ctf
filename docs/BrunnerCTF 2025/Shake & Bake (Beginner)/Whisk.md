@@ -8,6 +8,14 @@ Someone tried sabotaging our operation by "whisking” away the secret ingredien
 Can you help us recover the secret ingredient?
 ```
 
+points: `40`
+
+solves: `313`
+
+author: `rvsms`
+
+---
+
 `whisk.txt`:
 
 ```text

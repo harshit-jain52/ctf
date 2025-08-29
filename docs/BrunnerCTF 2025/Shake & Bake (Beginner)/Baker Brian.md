@@ -6,6 +6,14 @@
 Baker Brian says he has a plan to make him super rich, but he refuses to share any details 😠 Can you access his Cake Vault where he keeps all his business secrets?
 ```
 
+points: `30`
+
+solves: `555`
+
+author: `Nissen`
+
+---
+
 We are given a file `auth.py`, which is used to check username and password on the server where the flag is
 
 ```python

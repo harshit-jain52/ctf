@@ -6,6 +6,14 @@
 Brunnerne made an online flavour shop! Your wildest dreams can be fulfilled, it's actually hard to WRAP your head AROUND how amazing this software is!
 ```
 
+points: `40`
+
+solves: `476`
+
+author: `olexmeister`
+
+---
+
 We are given a C file `shop.c`:
 
 ```c

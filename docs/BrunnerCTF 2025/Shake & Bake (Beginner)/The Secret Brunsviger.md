@@ -6,6 +6,14 @@
 I have intercepted encrypted HTTPS traffic from the secret brunsviger baking forum, but I need help decrypting it.
 ```
 
+points: `50`
+
+solves: `242`
+
+author: `Ha1fdan`
+
+---
+
 `traffic.pcap` and `keys.log` given:
 
 Open Wireshark to observe the pcap file:

@@ -4,6 +4,13 @@
 The Othello villains stole our sacred Brunner recipe! Luckily, they are unable to write secure code, please retrieve the recipe from their (in)secure vault!
 ```
 
+points: `100`
+
+solves: `286`
+
+author: `olexmeister`
+
+---
 This challenge is similar to [Dat Overflow Dough](../Shake%20&%20Bake%20(Beginner)/Dat%20Overflow%20Dough.md), except the source code is not given
 
 ```gdb

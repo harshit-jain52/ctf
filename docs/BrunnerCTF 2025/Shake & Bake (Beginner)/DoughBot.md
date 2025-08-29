@@ -8,6 +8,14 @@ Our state-of-the-art smart mixer, DoughBot, crashed during a routine kneading cy
 Analyze the captured dump and see what the DoughBot was trying to say before it rebooted.
 ```
 
+points: `20`
+
+solves: `704`
+
+author: `rvsmvs`
+
+---
+
 We are provided with a file: `doughbot_dump.bin`
 
 It contains a line: `// dev.note: bootlog_flag=YnJ1bm5lcnttMXgzZF9zMWduYWxzXzRfc3VyZX0=`

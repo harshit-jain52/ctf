@@ -10,6 +10,14 @@ Try loading it onto your phone or an emulator to try it out!
 Oh and btw, did you know an APK is just a ZIP file with assembled Java code and resources like strings, fonts, and images? I heard apktool might be a good tool for decoding the contents!
 ```
 
+points: `50`
+
+solves: `166`
+
+author: `KyootyBella`
+
+---
+
 ```shell
 apktool d BakeDown.apk
 cd BakeDown/

@@ -4,6 +4,14 @@
 The baker got infected with Italian brainrot and obfuscated our flag encoder with memes and nested functions. Can you help us find our flag?
 ```
 
+points: `100`
+
+solves: `371`
+
+author: `ha1fdan`
+
+---
+
 Given `output.txt` and `trippi_troppa_sus.py`:
 
 ```python

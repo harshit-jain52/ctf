@@ -8,6 +8,13 @@ She thought it was uncrackable. But little did she know: Using the same oven clo
 Can you recover her delicious secret?
 ```
 
+points: `100`
+
+solves: `232`
+
+author: `H4N5`
+
+---
 We are given a binary, and a `flag.enc` file:
 
 ```text

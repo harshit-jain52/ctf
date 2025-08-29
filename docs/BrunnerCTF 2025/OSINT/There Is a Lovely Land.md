@@ -8,6 +8,14 @@ A friend of mine took this picture, but I don't know the name of the bridge! Ple
 Flag format: brunner{<bridge name in Danish in lowercase>}
 ```
 
+points: `100`
+
+solves: `526`
+
+author: `Toxicd`
+
+---
+
 ![image](../images/SomeBridge.JPG)
 
 Using Google Lens directly points us to **Sallingsund Bridge (Sallingsundbroen)**
