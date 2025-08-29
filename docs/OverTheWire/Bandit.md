@@ -101,3 +101,101 @@ base64 -d data.txt
 ```shell
 cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 ```
+
+## level 12 -> level 13
+
+```shell
+xxd -r data.txt > data
+file data
+> data: gzip compressed data, was "data2.bin", last modified: Fri Aug 15 13:15:53 2025, max compression, from Unix, original size modulo 2^32 584
+mv data data.gz
+gzip -d data.gz
+file data
+> data: bzip2 compressed data, block size = 900k
+mv data data.bz2
+bzip2 -d data.bz2
+file data
+> data: gzip compressed data, was "data4.bin", last modified: Fri Aug 15 13:15:53 2025, max compression, from Unix, original size modulo 2^32 20480
+mv data data.gz
+gzip -d data.gz
+file data
+> data: POSIX tar archive (GNU)
+mv data data.tar
+tar -xvf data.tar
+> data5.bin
+file data5.bin
+> data5.bin: POSIX tar archive (GNU)
+tar -xvf data5.bin
+> data6.bin
+file data6.bin
+> data6.bin: bzip2 compressed data, block size = 900k
+bzip2 -d data6.bin
+> bzip2: Can't guess original name for data6.bin using data6.bin.out
+file data6.bin.out
+> data6.bin.out: POSIX tar archive (GNU)
+tar -xvf data6.bin.out
+> data8.bin
+file data8.bin
+> data8.bin: gzip compressed data, was "data9.bin", last modified: Fri Aug 15 13:15:53 2025, max compression, from Unix, original size modulo 2^32 49
+mv data8.bin data8.bin.gz
+gzip -d data8.gz
+file data8
+> data8: ASCII text
+```
+
+## level 13 -> level 14
+
+```shell
+cat sshkey.private
+```
+
+Password is not accessible, we got a private sshkey for next level
+
+```shell
+ssh -i sshkey.private bandit14@bandit.labs.overthewire.org -p 2220
+```
+
+## level 14 -> level 15
+
+```shell
+cat /etc/bandit_pass/bandit14 | nc localhost 30000
+```
+
+## level 15 -> level 16
+
+```shell
+cat /etc/bandit_pass/bandit15 | ncat --ssl localhost 30001
+```
+
+## level 16 -> level 17
+
+```shell
+nmap -p 31000-32000 --script ssl-enum-ciphers localhost
+```
+
+Possible ports: 31518, 31790
+
+```shell
+cat /etc/bandit_pass/bandit16 | ncat --ssl localhost 31518
+cat /etc/bandit_pass/bandit16 | ncat --ssl localhost 31790
+```
+
+Port 31790 gives a private ssh key
+
+## level 17 -> level 18
+
+```shell
+diff passwords.old passwords.new 
+```
+
+## level 18 -> level 19
+
+```shell
+ssh bandit18@bandit.labs.overthewire.org -p 2220 "cat readme"
+```
+
+## level 19 -> level 20
+
+```shell
+./bandit20-do cat /etc/bandit_pass/bandit20
+```
