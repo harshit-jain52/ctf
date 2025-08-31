@@ -154,6 +154,12 @@
 - [Ultra-Safe-Integers](./docs/Pentathon25/Ultra-Safe-Integers.md)
 - [Unblocker](./docs/Pentathon25/Unblocker.md)
 
+## TFC CTF 2025
+
+- [KISSFIXESS](./docs/TFC%20CTF%202025/Web/KISSFIXESS.md)
+- [KISSFIXESS REVENGE](./docs/TFC%20CTF%202025/Web/KISSFIXESS%20REVENGE.md)
+- [SLIPPY](./docs/TFC%20CTF%202025/Web/SLIPPY.md)
+
 ## TryHackMe
 
 - [Mr Robot](./docs/TryHackMe/Mr%20Robot.md)
