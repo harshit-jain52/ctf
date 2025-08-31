@@ -27,6 +27,7 @@
 - [Smashing the Stack for Fun and Profit](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf)
 - [Format Strings](https://axcheron.github.io/exploit-101-format-strings/)
 - [Server Side Template Injection](https://medium.com/@bdemir/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68)
+- [Pyjail Cheatsheet](https://shirajuki.js.org/blog/pyjail-cheatsheet/)
 
 ## Tools
 
