@@ -1,4 +1,4 @@
-# KISSFIXES
+# KISSFIXESS
 
 ```text
 Kiss My Fixes.

