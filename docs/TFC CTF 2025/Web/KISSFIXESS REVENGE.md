@@ -61,3 +61,5 @@ for key, sub in substitutions.items():
 
 print(payload)
 ```
+
+GOATed [Pyjail cheatsheet](https://shirajuki.js.org/blog/pyjail-cheatsheet/)
