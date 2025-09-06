@@ -106,7 +106,7 @@ if (getEnv().devMode) {
 
 The `config` param can be used to pollute the prototype, thanks to the `deepMerge()` function
 
-The key "__proto__" is blacklisted, so [found another way](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Prototype%20Pollution):
+The key "\_\_proto\_\_" is blacklisted, so [found another way](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Prototype%20Pollution):
 
 ```text
 /?config={"constructor":{"prototype":{"devMode":true}}}
