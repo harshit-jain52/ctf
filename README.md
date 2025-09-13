@@ -203,6 +203,8 @@
 - [Irish-Name-Repo-2](./docs/picoCTF/Web%20Exploitation/Irish-Name-Repo-2.md)
 - [Irish-Name-Repo-3](./docs/picoCTF/Web%20Exploitation/Irish-Name-Repo-3.md)
 - [It is my Birthday](./docs/picoCTF/Web%20Exploitation/It%20is%20my%20Birthday.md)
+- [JAuth](./docs/picoCTF/Web%20Exploitation/JAuth.md)
+- [JaWT Scratchpad](./docs/picoCTF/Web%20Exploitation/JaWT%20Scratchpad.md)
 - [Local Authority](./docs/picoCTF/Web%20Exploitation/Local%20Authority.md)
 - [MatchTheRegex](./docs/picoCTF/Web%20Exploitation/MatchTheRegex.md)
 - [Mind Your Ps and Qs](./docs/picoCTF/Cryptography/Mind%20Your%20Ps%20and%20Qs.md)
