@@ -136,9 +136,11 @@
 
 ## Hacker101-CTF
 
-- [1 A little something to get you started](./docs/Hacker101-CTF/1%20A%20little%20something%20to%20get%20you%20started.md)
-- [2 Micro-CMS v1](./docs/Hacker101-CTF/2%20Micro-CMS%20v1.md)
-- [7 Postbook](./docs/Hacker101-CTF/7%20Postbook.md)
+- [A little something to get you started](./docs/Hacker101-CTF/A%20little%20something%20to%20get%20you%20started.md)
+- [BugDB v1](./docs/Hacker101-CTF/BugDB%20v1.md)
+- [BugDB v2](./docs/Hacker101-CTF/BugDB%20v2.md)
+- [Micro-CMS v1](./docs/Hacker101-CTF/Micro-CMS%20v1.md)
+- [Postbook](./docs/Hacker101-CTF/Postbook.md)
 
 ## OverTheWire
 
