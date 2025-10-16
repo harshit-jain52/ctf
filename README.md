@@ -119,6 +119,10 @@
 - [TLS Part 1](./docs/Cryptohack/Crypto%20on%20the%20Web/TLS%20Part%201.md)
 - [XOR](./docs/Cryptohack/General/XOR.md)
 
+## EnigmaXplore 3.0
+
+- [Guess the Number Arisu!!](./docs/EnigmaXplore%203.0/Programming/Guess%20the%20Number%20Arisu%21%21.md)
+
 ## GoogleCTF Beginner's Quest 2024
 
 - [DialUp](./docs/GoogleCTF%20Beginner%27s%20Quest%202024/DialUp.md)
