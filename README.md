@@ -162,6 +162,18 @@
 - [Ultra-Safe-Integers](./docs/Pentathon25/Ultra-Safe-Integers.md)
 - [Unblocker](./docs/Pentathon25/Unblocker.md)
 
+## QnQSec CTF 2025
+
+- [A easy web](./docs/QnQSec%20CTF%202025/Warmup/A%20easy%20web.md)
+- [Catch Me](./docs/QnQSec%20CTF%202025/Misc/Catch%20Me.md)
+- [Echoes of the Unknown](./docs/QnQSec%20CTF%202025/Warmup/Echoes%20of%20the%20Unknown.md)
+- [Mandatory RSA](./docs/QnQSec%20CTF%202025/Warmup/Mandatory%20RSA.md)
+- [Not your Karnaugh diagram](./docs/QnQSec%20CTF%202025/Hardware/Not%20your%20Karnaugh%20diagram.md)
+- [QnQsec portal](./docs/QnQSec%20CTF%202025/Web/QnQsec%20portal.md)
+- [SmartCoffee](./docs/QnQSec%20CTF%202025/Hardware/SmartCoffee.md)
+- [baby_baby_reverse](./docs/QnQSec%20CTF%202025/Warmup/baby_baby_reverse.md)
+- [s3cr3t_w3b](./docs/QnQSec%20CTF%202025/Web/s3cr3t_w3b.md)
+
 ## TFC CTF 2025
 
 - [KISSFIXESS](./docs/TFC%20CTF%202025/Web/KISSFIXESS.md)
