@@ -459,6 +459,8 @@ EXPOSE 80
 
 Firstly, a login screen is displayed.
 
+![image](../media/secretweb1.png)
+
 ```php
 $query = "SELECT * FROM users WHERE username = '$username' AND password = '$password'";
 ```
@@ -469,6 +471,8 @@ This is prone to **SQLi**. Submitting the following worked:
 username: ' OR '1'='1
 password: ' OR '1'='1
 ```
+
+![image](../media/secretweb2.png)
 
 After logging in, a page opens which accepts an XML file and parses it. This is a sink for **XXE Injection**
 

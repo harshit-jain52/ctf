@@ -28,12 +28,24 @@ CMD ["python", "app.py"]
 
 ## Approach
 
-The `index.html` tells to go to `/profile?uid=1`.
+`/`:
 
-That endpoint sayssaid that this is a guest user.
+![image](../media/easyweb1.png)
+
+`/profile?uid=1`:
+
+![image](../media/easyweb2.png)
 
 Tried running a script to check all uids from 1 to 100 -> no luck
 
-Guessed `1337` (because of its [significance](https://en.wikipedia.org/wiki/Leet)), and it worked! That endpoint was an admin page that provides a shell.
+Guessed `1337` (because of its [significance](https://en.wikipedia.org/wiki/Leet)), and it worked!
 
-Using `ls` commands, found out the random name of the flag file and then `cat` it
+![image](../media/easyweb3.png)
+
+Clicking on admin panel, we are taken to `/admin?cmd=whoami&uid=1337`:
+
+![image](../media/easyweb4.png)
+
+Typing commands in the text box and clicking "Run" gives "Access Denied". But providing commands in query params works!
+
+Using `ls -a` commands, found out the random name of the flag file and then `cat` it

