@@ -146,6 +146,19 @@
 - [Micro-CMS v1](./docs/Hacker101-CTF/Micro-CMS%20v1.md)
 - [Postbook](./docs/Hacker101-CTF/Postbook.md)
 
+## Huntress CTF 2025
+
+- [ARIKA](./docs/Huntress%20CTF%202025/Day04/ARIKA.md)
+- [Cover All Your Bases](./docs/Huntress%20CTF%202025/Day01/Cover%20All%20Your%20Bases.md)
+- [Emotional](./docs/Huntress%20CTF%202025/Day06/Emotional.md)
+- [OFA](./docs/Huntress%20CTF%202025/Day02/OFA.md)
+- [QRception](./docs/Huntress%20CTF%202025/Day01/QRception.md)
+- [RFC 9303](./docs/Huntress%20CTF%202025/Day01/RFC%209303.md)
+- [Sigma Linter](./docs/Huntress%20CTF%202025/Day05/Sigma%20Linter.md)
+- [Snooze](./docs/Huntress%20CTF%202025/Day04/Snooze.md)
+- [Spam Test](./docs/Huntress%20CTF%202025/Day01/Spam%20Test.md)
+- [Tabby's Date](./docs/Huntress%20CTF%202025/Day09/Tabby%27s%20Date.md)
+
 ## OverTheWire
 
 - [Bandit](./docs/OverTheWire/Bandit.md)
