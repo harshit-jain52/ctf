@@ -159,6 +159,17 @@
 - [Spam Test](./docs/Huntress%20CTF%202025/Day01/Spam%20Test.md)
 - [Tabby's Date](./docs/Huntress%20CTF%202025/Day09/Tabby%27s%20Date.md)
 
+## MetaCTF
+
+- [Admin Portal](./docs/MetaCTF/Web%20Exploitation/Admin%20Portal.md)
+- [Cookie Crackdown](./docs/MetaCTF/Web%20Exploitation/Cookie%20Crackdown.md)
+- [Cracking The Javashop](./docs/MetaCTF/Web%20Exploitation/Cracking%20The%20Javashop.md)
+- [Direct Login](./docs/MetaCTF/Web%20Exploitation/Direct%20Login.md)
+- [Door to Door](./docs/MetaCTF/Web%20Exploitation/Door%20to%20Door.md)
+- [Library](./docs/MetaCTF/Web%20Exploitation/Library.md)
+- [Login Query](./docs/MetaCTF/Web%20Exploitation/Login%20Query.md)
+- [Treasure Map](./docs/MetaCTF/Web%20Exploitation/Treasure%20Map.md)
+
 ## OverTheWire
 
 - [Bandit](./docs/OverTheWire/Bandit.md)
